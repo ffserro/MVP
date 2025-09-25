@@ -12,4 +12,3 @@ xgboost
 neuralforecast
 gluonts
 autogluon
-torch==2.8.0
