@@ -14,5 +14,4 @@ torch
 torchvision 
 torchaudio
 autogluon
-nbformat==5.10.4
-nbconvert==7.16.6
+nbstripout
