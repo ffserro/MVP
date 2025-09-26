@@ -10,5 +10,3 @@ statsmodels
 tensorflow
 xgboost
 neuralforecast
-gluonts
-autogluon
