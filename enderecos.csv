@@ -1,423 +1,423 @@
 OM,latitude,longitude,Endereços
-IPqM – Instituto de Pesquisas da Marinha,-22.820754,-43.1875794,"02, Rua Ipiru, Cacuia, Rio de Janeiro, Rio de Janeiro, Brazil, 21931-095, "
-CPBA – Capitania dos Portos da Bahia,-12.9749626,-38.5153604,"1-193, Avenida das Naus, Comercio, Salvador, Bahia, Brazil, 40015-270, "
-BFLa – Base Fluvial de Ladário,-19.004394,-57.5985504,"1, Avenida 14 de Março, Centro, Ladário, Mato Grosso do Sul, Brazil, 79370-000, "
-DelItacuruca – Delegacia da Capitania dos Itacuruçá,-22.9303547,-43.9102901,"1, Praça Marcílio Dias, Itacuruçá, Mangaratiba, Rio de Janeiro, Brazil, 23860-000, "
-AgCaceres – Agência Fluvial de Cáceres,-16.063539,-57.68845229999999,"1, Rua Professor Rizo, Centro, Cáceres, Mato Grosso, Brazil, 78200-000, "
-AgPMurtinho – Agência Fluvial de Porto Murtinho,-21.7019923,-57.89154119999999,"1011, Rua Coronel Pedro Celestino, Centro, Porto Murtinho, Mato Grosso do Sul, Brazil, 79280-000, "
-COMRJ – Centro de Obtenção da Marinha no Rio de Janeiro,-22.833271,-43.2615699,"10500, Avenida Brasil, Olaria, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
-CIANB – Centro de Instrução e Adestramento Almirante Newton Braga,-22.8354238,-43.259803,"10500, Avenida Brasil, Olaria, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-351, "
-CCIM – Centro de Controle de Inventário da Marinha,-22.8342756,-43.260799,"10500, Avenida Brasil, Penha, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
-DelItajai – Delegacia da Capitania dos Portos em Itajaí,-26.9058456,-48.6539888,"1055, Avenida Prefeito Paulo Bauer, Centro, Itajaí, Santa Catarina, Brazil, 88301-020, "
-CEFAN – Centro de Educação Física Almirante Adalberto Nunes,-22.832152,-43.2645892,"10590, Avenida Brasil, Penha, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
-CMN – Casa do Marinheiro,-22.829061,-43.2704159,"10592, Avenida Brasil, Penha, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
-BFNRM – Base de Fuzileiros Navais do Rio Meriti,-22.8038,-43.291839,"1060, Avenida Trevo das Missões, Cordovil, Duque de Caxias, Rio de Janeiro, Brazil, 25085, "
-CIAA – Centro de Instrução Almirante Alexandrino,-22.8270441,-43.2733548,"10946, Avenida Brasil, Penha, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
-ERMRG – Estação Radiogoniométrica da Marinha no Rio Grande,-32.1433146,-52.1108342,"11, Rua Nova Onze, Industrial Tamandaré, Rio Grande, Rio Grande do Sul, Brazil, 96215-840, "
-CFMG - Capitania Fluvial de Minas Gerais,-19.9677344,-43.9344123,"1100, Avenida Celso Porfírio Machado, Belvedere, Belo Horizonte, Minas Gerais, Brazil, 30320-400, "
-AgCamocim – Agência da Capitania dos Portos em Camocim,-2.9012558,-40.8431118,"113, Rua Doutor João Thomé, Camocim, Camocim, Ceará, Brazil, 62400-000, "
-DEN – Diretoria de Engenharia Naval,-22.8993831,-43.1770935,"118, Rua Primeiro de Março, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20010-000, "
-CCCPM – Caixa de Construções de Casas Para o Pessoal da Marinha,-22.8992088,-43.1796941,"11º andar, 39, Avenida Rio Branco, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20040-009, "
-AgABranca – Agência da Capitania dos Portos em Areia Branca,-4.9562484,-37.1366742,"12, Rua João Félix, Centro, Areia Branca, Rio Grande do Norte, Brazil, 59655-000, "
-GptFNNa – Grupamento de Fuzileiros Navais de Natal,-5.7951049,-35.227678,"120-138, Rua Marcílio Dias, Quintas, Natal, Rio Grande do Norte, Brazil, 59040-000, "
-HNRe – Hospital Naval de Recife,-8.0462435,-34.87537,"1200, Avenida Cruz Cabugá, Santo Amaro, Recife, Pernambuco, Brazil, 50040-000, "
-CN – Colégio Naval,-23.0146625,-44.32905400000001,"1234-1312, Avenida Marquês de Leão, Centro, Angra dos Reis, Rio de Janeiro, Brazil, 23900-070, "
-DelAReis – Delegacia da Capitania dos Portos em Angra dos Reis,-23.0100089,-44.32077940000001,"13, Avenida Almirante Júlio César de Noronha, Centro, Angra dos Reis, Rio de Janeiro, Brazil, 23900-010, "
-HNLa – Hospital Naval de Ladário,-19.0024902,-57.59763539999999,"13, Rua Almirante Frontin, Setor 1, Ladário, Mato Grosso do Sul, Brazil, 79370-000, "
-AgCSul – Agência Fluvial Cruzeiro do Sul,-7.611614499999999,-72.6837259,"130, Rua José Soriano Silva, Formoso, Cruzeiro do Sul, Acre, Brazil, 69980-000, "
-GptFNSa – Grupamento de Fuzileiros Navais de Salvador,-12.963583,-38.5075677,"1300, Avenida da França, Comercio, Salvador, Bahia, Brazil, 40010-000, "
-CHN-4 – Centro de Hidrografia e Navegação do Norte,-1.395941,-48.4883543,"133-189, Rua Almirante Dantas Torres, Val de Caes, Belém, Pará, Brazil, 66115-520, "
-CTecCFN – Centro Tecnológico do Corpo de Fuzileiros Navais,-22.8091311,-43.29519699999999,"13476, Avenida Brasil, Parada de Lucas, Rio de Janeiro, Rio de Janeiro, Brazil, 21010-076, "
-CAAML – Centro de Adestramento Almirante Marques de Leão,-22.8144559,-43.2931275,"13476, Avenida Brasil, Parada de Lucas, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
-DelSFSul – Delegacia da Capitania dos Portos em São Francisco do Sul,-26.2447063,-48.63985940000001,"138, Rua Doutor Lauro Müller, Centro, São Francisco do Sul, Santa Catarina, Brazil, 89240-000, "
-DelPEpitacio – Delegacia Fluvial de Presidente Epitácio,-21.7588159,-52.1105119,"14-71, Rua Porto Alegre, Vila Santa Rosa, Presidente Epitácio, São Paulo, Brazil, 19470-000, "
-HNSa – Hospital Naval de Salvador,-12.9622038,-38.506391,"1400, Avenida da França, Comercio, Salvador, Bahia, Brazil, 40010-000, "
-CFT – Capitania Fluvial de Tabatinga,-4.2342883,-69.9420829,"143, Rua Duarte Coelho, Tabatinga, Amazonas, Brazil, 69640-000, "
-PNSPA – Policlínica Naval de São Pedro da Aldeia,-22.8241446,-42.0961936,"1447-1491, Rua Alberto Santos Dumont, Base Aeronaval, São Pedro da Aldeia, Rio de Janeiro, Brazil, 28940-000, "
-CPES – Capitania dos Portos do Espírito Santo,-20.317392,-40.2986375,"145, Rua Belmiro Rodrigues da Silva, Enseada do Suá, Vitória, Espírito Santo, Brazil, 29050-435, "
-AgPenedo – Agência Fluvial de Penedo,-10.2934713,-36.584215,"152, Avenida Duque de Caxias, Centro, Penedo, Alagoas, Brazil, 57200-000, "
-CMM – Centro de Munição da Marinha,-3.1302037,-60.02714169999999,"157, Rua José Clemente, Centro, Manaus, Amazonas, Brazil, 69010-070, "
-ComFFE – Comando da Força de Fuzileiros da Esquadra,-22.804636,-43.2904833,"168, Rua Silva Fernandes, Parque Duque, Duque de Caxias, Rio de Janeiro, Brazil, 25085-015, "
-BtlEngFuzNav – Batalhão de Engenharia de Fuzileiros Navais,-22.8045941,-43.290543,"168, Rua Silva Fernandes, Parque Duque, Duque de Caxias, Rio de Janeiro, Brazil, 25085-015, "
-RPBOMI – Representação Permanente do Brasil Junto à Organização Marítima Internacional,51.4606449415749,-0.21473313027399873,170 UPPER RICHMOND ROAD - - 3º ANDAR - PUTNEY - LONDRES - - INGLATERRA - SW15 2SH
-CFRP – Capitania Fluvial do Rio Paraná,-25.546879,-54.591119,"170, Rua Barão do Rio Branco, Centro, Foz do Iguaçu, Paraná, Brazil, 85851-310, "
-CNBE – Comissão Naval Brasileira na Europa,54.5259614,15.2551187,"170, UPPER RICHMOND ROAD - PUTNEY -LONDON - SW15 - 2SH - 170 - - PUTNEY - LONDRES - - INGLATERRA - "
-ERMBe – Estação Radiogoniométrica da Marinha em Belém,-1.391905,-48.435001,"1766, Avenida Augusto Montenegro, Mangueirão, Belém, Pará, Brazil, 66623, "
-AMAZUL – Amazônia Azul Tecnologias de Defesa S.A.,-23.5737825,-46.7317329,"1847, Avenida Corifeu de Azevedo Marques, Butantã, São Paulo, São Paulo, Brazil, 05581-001, "
-HNMD – Hospital Naval Marcílio Dias,-22.9139074,-43.2833747,"185, Rua César Zama, Lins de Vasconcelos, Rio de Janeiro, Rio de Janeiro, Brazil, 20725-090, "
-ESM – Escola de Saúde da Marinha,-22.9132419,-43.2843646,"185, Rua César Zama, Lins de Vasconcelos, Rio de Janeiro, Rio de Janeiro, Brazil, 20725-090, "
-INPG - Instituto Naval de Pós-Graduação,-22.8959502,-43.1784241,"19, Avenida Rodrigues Alves, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091, "
-CFS - Capitania Fluvial de Santarém,-2.4190798,-54.7274268,"1937, Avenida Tapajós, Aldeia, Santarém, Pará, Brazil, 68040-004, "
-CPRS – Capitania dos Portos do Rio Grande do Sul,-32.0310395,-52.0837677,"198, Rua Marechal Andréia, Vila Militar, Rio Grande, Rio Grande do Sul, Brazil, 96201-260, "
-AgTramandai – Agência da Capitania dos Portos em Tramandaí,-29.9783811,-50.1220603,"199, Avenida Beira Rio, Barra, Tramandaí, Rio Grande do Sul, Brazil, 95590-000, "
-PEM – Procuradoria Especial da Marinha,-22.8994204,-43.1768824,"1º, 2º e 3º, 114, Rua Primeiro de Março, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20010-000, "
-AgCaracaraí - Agência Fluvial de Caracaraí ,1.802927,-61.13267019999999,"2-622, Avenida Doutor Zany, Caracaraí, Roraima, Brazil, 69360-000, "
-CTMRJ - Centro Tecnológico da Marinha no Rio de Janeiro,-22.8207105,-43.1875325,"2, Rua Ipiru, Cacuia, Rio de Janeiro, Rio de Janeiro, Brazil, 21931-090, "
-HNBe – Hospital Naval de Belém,-1.4655121,-48.503187,"200, Rua Arsenal, Cidade Velha, Belém, Pará, Brazil, 66023-110, "
-CeIMRG – Centro de Intendência da Marinha em Rio Grande,-32.1404105,-52.1066019,"2000, Av. Avenida Almirante Maximiano da Fonseca, Barra Nova, Rio Grande, Rio Grande do Sul, Brazil, 96204-000, "
-CPAP – Capitania dos Portos do Amapá,-0.0545313,-51.16171440000001,"2000, Rua Cláudio Lúcio Monteiro, Remédios, Santana, Amapá, Brazil, 68927-003, "
-PAPEM – Pagadoria de Pessoal da Marinha,-22.8969438,-43.1745864,"23, Rua da Ponte, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, "
-DelCFrio – Delegacia da Capitania dos Portos em Cabo Frio,-22.8761115,-42.0196659,"230, Rua Jorge Veiga, Gamboa, Cabo Frio, Rio de Janeiro, Brazil, 28922-030, "
-CPRN – Capitania dos Portos do Rio Grande do Norte,-5.7787654,-35.2071619,"232, Rua Chile, Ribeira, Natal, Rio Grande do Norte, Brazil, 59012-250, "
-CIABA – Centro de Instrução Almirante Braz de Aguiar,-1.3707761,-48.47893,"245, Rodovia Arthur Bernardes, Pratinha (Icoaraci), Belém, Pará, Brazil, 66816-900, "
-CTMSP – Centro Tecnológico da Marinha em São Paulo,-23.5646488,-46.739159,"2468, Avenida Professor Lineu Prestes, Vila Universitaria, São Paulo, São Paulo, Brazil, 05508-000, "
-CDSub - Centro de Desenvolvimento de Submarinos,-23.5646488,-46.739159,"2468, Rua Cidade Universitária, Butantã, São Paulo, São Paulo, Brazil, 05508-000, "
-CCEMSP – Centro de Coordenação de Estudos da Marinha em São Paulo,-23.5530143,-46.7292004,"2493-2547, Avenida Professor Mello Moraes, Butantã, São Paulo, São Paulo, Brazil, 05508-030, "
-CPPE – Capitania dos Portos de Pernambuco,-8.0600758,-34.8709605,"25, Rua de São Jorge, Recife, Recife, Pernambuco, Brazil, 50030-240, "
-IEAPM – Instituto de Estudos do Mar Almirante Paulo Moreira,-22.9773425,-42.022118,"253, Rua Kioto, Praia dos Anjos, Arraial do Cabo, Rio de Janeiro, Brazil, 28930-000, "
-DASM – Diretoria de Assistência Social da Marinha,-22.8843168,-43.3960481,"2554, Avenida Marechal Fontenele, Jardim Sulacap, Rio de Janeiro, Rio de Janeiro, Brazil, 21741, "
-AgItacoatiara – Agência Fluvial de Itacoatiara,-3.146491,-58.44616019999999,"262, Avenida Parque, Centro, Itacoatiara, Amazonas, Brazil, 69100-000, "
-ComFlotAM – Comando da Flotilha do Amazonas,-3.1442066,-59.94934490000001,"2697, R. Marinheiro Greenhalgh, Vila Buriti, Manaus, Amazonas, Brazil, 69072-130, "
-AgTefe – Agência Fluvial de Tefé,-3.3441587,-64.7068653,"287, Rua Duque de Caxias, Tefé, Amazonas, Brazil, 69470-000, "
-DelFurnas – Delegacia Fluvial de Furnas,-20.6794319,-46.33459089999999,"288, Rua Lavras, Furnas, São José da Barra, Minas Gerais, Brazil, 37945-000, "
-BHMN – Base de Hidrografia da Marinha em Niterói,-22.8836089,-43.1293569,"289-821, Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24040-000, "
-PNN – Policlínica Naval de Niterói,-22.8840502,-43.1298127,"289, Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24040-000, "
-EAMCE – Escola de Aprendizes-Marinheiros do Ceará,-3.7177218,-38.5418448,"30, Avenida Filomeno Gomes, Jacarecanga, Fortaleza, Ceará, Brazil, 60010-280, "
-EAMSC – Escola de Aprendizes-Marinheiros de Santa Catarina,-27.5781292,-48.5903638,"3028, Avenida Marinheiro Max Schramm, Jardim Atlântico, Florianópolis, Santa Catarina, Brazil, 88095-900, "
-CMOpM – Centro de Medicina Operativa da Marinha,-22.8907284,-43.2426202,"315, Avenida Dom Hélder Câmara, Manguinhos, Rio de Janeiro, Rio de Janeiro, Brazil, 20911-291, "
-LFM – Laboratório Farmacêutico da Marinha,-22.8906606,-43.242605,"315, Avenida Dom Hélder Câmara, Manguinhos, Rio de Janeiro, Rio de Janeiro, Brazil, 20911-291, "
-3°BtlOpRib – 3° Batalhão de Operações Ribeirinhas,-19.0089733,-57.5984886,"333, Rua Antônio João Assad, Setor 7, Ladário, Mato Grosso do Sul, Brazil, 79370-000, "
-PNRG - Policlínica Naval de Rio Grande,-32.0327629,-52.0842296,"353, Rua Almirante Garnier, Vila Militar, Rio Grande, Rio Grande do Sul, Brazil, 96201-230, "
-CPPB – Capitania dos Portos da Paraíba,-7.116822900000001,-34.8880763,"372, Rua Barão do Triunfo, Varadouro, João Pessoa, Paraíba, Brazil, 58010-400, "
-AgSinop - Agência Fluvial de Sinop,-11.8360972,-55.4981535,"3782, Rua das Orquideas, Parque das Araras, Sinop, Mato Grosso, Brazil, 78550-404, "
-CFPA - Capitania Fluvial de Porto Alegre,-30.0323041,-51.2371317,"386, Rua dos Andradas, Centro Histórico, Porto Alegre, Rio Grande do Sul, Brazil, 90020-000, "
-DepSIMRJ – Depósito de Suprimentos de Intendência da Marinha no Rio de Janeiro,-22.8973334,-43.2477864,"390, Rua Doutor Garnier, Rocha, Rio de Janeiro, Rio de Janeiro, Brazil, 20975-000, "
-CFPV – Capitania Fluvial de Porto Velho,-8.764834,-63.906814,"395, Rua Henrique Dias, Centro, Porto Velho, Rondônia, Brazil, 78900-130, "
-PNMa - Policlínica Naval de Manaus,-3.1334903,-59.9459514,"4, BR-319, Vila Buriti, Manaus, Amazonas, Brazil, 69075-840, "
-DPC – Diretoria de Portos e Costas,-22.8995993,-43.1768589,"4, Rua Teófilo Otoni, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20090-070, "
-CPMA – Capitania dos Portos do Maranhão,-2.5279476,-44.3073232,"406, Avenida Senador Vitorino Freire, Centro, São Luís, Maranhão, Brazil, 65010-655, "
-AgImperatriz - Agência Fluvial de Imperatriz,-5.5277574,-47.4869133,"41, Rua Coriolano Milhomem, Nova Imperatriz, Imperatriz, Maranhão, Brazil, 65907-170, "
-AgGMirim – Agência Fluvial de Guajará-Mirim,-10.7900413,-65.34398209999999,"418, Avenida 15 de Novembro, Setor 01, Guajará-Mirim, Rondônia, Brazil, 78957-000, "
-CPAL – Capitania dos Portos de Alagoas,-9.669895799999999,-35.7274217,"44, Rua do Uruguai, Jaraguá, Maceió, Alagoas, Brazil, 57022-120, "
-CPSC – Capitania dos Portos de Santa Catarina,-27.5955556,-48.5683763,"440, Rua Quatorze de Julho, Estreito, Florianópolis, Santa Catarina, Brazil, 88075-010, "
-BtlLogFuzNav – Batalhão Logístico de Fuzileiros Navais,-22.806278,-43.2911071,"4458, Avenida Trevo das Missões, Cordovil, Rio de Janeiro, Rio de Janeiro, Brazil, "
-PNCG – Policlínica Naval de Campo Grande,-22.8655322,-43.5837801,"44878, Avenida Brasil, Campo Grande, Rio de Janeiro, Rio de Janeiro, Brazil, 23078-001, "
-CIAMPA – Centro de Instrução Almirante Milcíades Portela Alves,-22.864129,-43.5808828,"44878, Avenida Brasil, Campo Grande, Rio de Janeiro, Rio de Janeiro, Brazil, 23078-001, "
-EGN – Escola de Guerra Naval,-22.9547218,-43.1675726,"480, Avenida Pasteur, Urca, Rio de Janeiro, Rio de Janeiro, Brazil, 22290-240, "
-CFGO – Capitania Fluvial de Goiás,-16.6770627,-49.2560961,"49, Rua 2, Setor Central, Goiânia, Goiás, Brazil, 74013-020, "
-CPCE – Capitania dos Portos do Ceará,-3.7194762,-38.475988,"4917, Avenida Vicente de Castro, Mucuripe, Fortaleza, Ceará, Brazil, 60180-410, "
-CeIMMa – Centro de Intendência da Marinha em Manaus,-3.143169,-59.9481689,"520-598, Estrada de Acesso A Base Naval, Vila Buriti, Manaus, Amazonas, Brazil, 69072, "
-CPPI – Capitania dos Portos do Piauí,-2.8981425,-41.7727715,"530, Avenida Nações Unidas, Nossa Senhora do Carmo, Parnaíba, Piauí, Brazil, 64200-220, "
-PNNSG – Policlínica Naval Nossa Senhora da Glória,-22.9234184,-43.223553,"54, Rua Conde de Bonfim, Tijuca, Rio de Janeiro, Rio de Janeiro, Brazil, 20520-053, "
-DelSSebastiao – Delegacia da Capitania dos Portos em São Sebastião,-23.8061977,-45.4005829,"544, Avenida Doutor Altino Arantes, Centro, São Sebastião, São Paulo, Brazil, 11600-000, "
-CPAOR – Capitania dos Portos da Amazônia Oriental,-1.4479153,-48.4971975,"575, Rua Gaspar Viana, Reduto, Belém, Pará, Brazil, 66053-090, "
-CFJ – Capitania Fluvial de Juazeiro,-9.4100275,-40.5110278,"606, Rua José Petitinga, Santo Antonio, Juazeiro, Bahia, Brazil, 48903-010, "
-Com1°DN – Comando do 1° Distrito Naval,-22.8966822,-43.1800199,"65, Praça Mauá, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20081-240, "
-CDU-1°DN - Centro de Distribuição de Uniformes do Comando do 1° Distrito Naval,-22.8966822,-43.1800199,"65, Praça Mauá, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20081-240, "
-ERMCN – Estação Radiogoniométrica da Marinha em Campos Novos,-22.710987,-42.0104522,"6618-6898, Rodovia Amaral Peixoto, Vila Colonial, Cabo Frio, Rio de Janeiro, Brazil, "
-DepSMRJ – Depósito de Sobressalentes da Marinha no Rio de Janeiro,-22.8412293,-43.3026527,"682, Rua Tomás Lopes, Penha Circular, Rio de Janeiro, Rio de Janeiro, Brazil, 21221-210, "
-Com5°DN – Comando do 5° Distrito Naval,-32.0310398,-52.08279109999999,"70, Rua Marechal Andréia, Vila Militar, Rio Grande, Rio Grande do Sul, Brazil, 96201, "
-CPPR – Capitania dos Portos do Paraná,-25.517052,-48.5018025,"707, Rua Benjamin Constant, Centro Histórico, Paranaguá, Paraná, Brazil, 83203-190, "
-DelLaguna – Delegacia da Capitania dos Portos em Laguna,-28.4853108,-48.78284790000001,"72, Avenida Colombo Machado Sálless, Centro, Laguna, Santa Catarina, Brazil, 88790-000, "
-CPSE – Capitania dos Portos de Sergipe,-10.9205884,-37.0462136,"752, Avenida Ivo do Prado, São José, Aracaju, Sergipe, Brazil, 49015-070, "
-DelPirapora – Delegacia Fluvial de Pirapora,-17.3496115,-44.9520061,"758, Avenida São Francisco, Centro, Pirapora, Minas Gerais, Brazil, 39270-050, "
-CM – Comando da Marinha,-23.6678173,-46.6947269,"760, Avenida Engenheiro Alberto de Zagottis, Jardim Anhanguera, São Paulo, São Paulo, Brazil, 04675-085, "
-CFTP – Capitania Fluvial do Tietê-Paraná,-22.4996756,-48.5538593,"804, Avenida Pedro Ometto, Centro, Barra Bonita, São Paulo, Brazil, 17340-250, "
-CFPN – Capitania Fluvial do Pantanal,-18.9979962,-57.6509835,"806, Rua Delamare, Centro, Corumbá, Mato Grosso do Sul, Brazil, 79301-020, "
-ComForAerNav – Comando da Força Aeronaval,-22.8248371,-42.0924915,"829-911, Rua Comandante Ituriel, Base Aeronaval, São Pedro da Aldeia, Rio de Janeiro, Brazil, 28940-000, "
-CFMT – Capitania Fluvial de Mato Grosso,-15.5763272,-56.0590022,"850, Avenida Oátomo Canavarros, Morada do Ouro, Cuiabá, Mato Grosso, Brazil, 78050-568, "
-CIAGA – Centro de Instrução Almirante Graça Aranha,-22.8370496,-43.2556682,"9020, Avenida Brasil, Olaria, Rio de Janeiro, Rio de Janeiro, Brazil, 21030-001, "
-AgOiapoque - Agência da Capitania dos Portos no Oiapoque-AP,3.8492121,-51.8316159,"930-1012, Rua Joaquim Caetano da Silva, Oiapoque, Oiapoque, Amapá, Brazil, 68980-000, "
-AgAracati – Agência da Capitania dos Portos em Aracati,-4.5668846,-37.7734138,"955, Avenida Coronel Alexanzito, Centro, Aracati, Ceará, Brazil, 62800-000, "
-NVAraçatuba – Navio-Varredor Araçatuba,-21.206685,-50.438747,"Araçatuba, Araçatuba, State of São Paulo, Brazil, "
-NPoAlteMaximiano – Navio Polar Almirante Maximiano,-22.896894555867778,-43.174479800000015,ARSENAL DE MARINHA DO RIO DE JANEIRO - S/N° - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-DepMSMRJ – Depósito de Material de Saúde da Marinha no Rio de Janeiro,-22.9068467,-43.1728965,AV . BRASIL - S/N° - - OLARIA - RIO DE JANEIRO - RJ - BRASIL – 21012-350
-AvHoFluCaravelas - Aviso Hidroceanográfico Fluvial Caravelas,-19.003885546238873,-57.595807871168645,AV 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
-"BtlDefNBQR - Batalhão de Defesa Nuclear, Biológica, Química e Radiológica",-22.845648134844843,-43.10150362510014,AV PAIVA - S/N - ILHA DAS FLORES - NEVES - SÃO GONÇALO - RJ - BRASIL - 24426-148
-Com6°DN – Comando do 6° Distrito Naval,-19.004615650624423,-57.59797841539848,"Av. 14 de Março - St. 1, Ladário - MS, 79370-000"
-NPaBenevente – Navio-Patrulha Benevente,-32.14018787736598,-52.10963199239183,AV. ALMIRANTE MAXIMIANO DA SILVA FONSECA - 2000 - KM 9 - 4º SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL – 96204-040
-GptFNRG – Grupamento de Fuzileiros Navais de Rio Grande,-32.139635137663916,-52.11148742894873,AV. ALMIRANTE MAXIMIANO FONSECA - - KM 9 - CAIXA POSTAL 209 - 4ª SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL – 96204-040
-RbAMTritao – Rebocador de Alto-Mar Tritão,-32.14018787736598,-52.10963199239183,AV. ALMIRANTE MAXIMIANO FONSECA - 2000 - - 4ª SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL - 96204-040
-NPaBabitonga – Navio-Patrulha Babitonga,-32.14018787736598,-52.10963199239183,AV. ALMIRANTE MAXIMIANO FONSECA - 2000 - - 4ª SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL – 96200-040
-NApOcMearim - Navio de Apoio Oceânico Mearim,-32.14018787736598,-52.10963199239183,AV. ALMIRANTE MAXIMIANO FONSECA - 2000 - - 4ª SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL – 96204-040
-CDU-BAMRJ - Centro de Distribuição de Uniformes da Base de Abastecimento da Marinha no Rio de Janeiro,-22.8341648,-43.2613409,AV. BRASIL - 10.500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL – 21012-350
-CDAM–Centro de Distribuição e Operações Aduaneiras da Marinha ,-22.831854306591076,-43.25944495923486,AV. BRASIL - 10500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL - 21012-350
-CDM – Comissão de Desportos da Marinha,-22.83211052018131,-43.26457658543398,AV. BRASIL - 10500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL - 21012-350
-BAMRJ – Base de Abastecimento da Marinha no Rio de Janeiro,-22.8341648,-43.2613409,AV. BRASIL - 10500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL – 21012-350
-"CDefNBQR-MB - Centro de Defesa Nuclear, Biológica, Química e Radiológica da MB",-22.8098864,-43.2956007,AV. BRASIL - 13476 - - PARADA DE LUCAS - RIO DE JANEIRO - RJ - BRASIL – 21010-076
-BtlOpEspFuzNav – Batalhão de Operações Especiais de Fuzileiros Navais,-22.863809058036754,-43.58007195997083,AV. BRASIL - 44878 - KM 45 - GUANDU DO SAPÊ - CAMPO GRANDE - RIO DE JANEIRO - RJ - BRASIL - 23078-000
-CeIMPL - Centro de Intendência da Marinha em Parada de Lucas,-22.8184513,-43.3030143,AV. BRASIL - Nº13.476 - - PARADA DE LUCAS - RIO DE JANEIRO - RJ - BRASIL – 21010-076
-ENRG – Estação Naval do Rio Grande,-32.033083318417376,-52.07933866944614,AV. HONÓRIO BICALHO - S/N° - ANTIGO PORTÃO 9 - CENTRO - RIO GRANDE - RS - BRASIL - 96201-230
-NHiBComteVarella – Navio Hidrográfico Balizador Comandante Varella,-32.033083318417376,-52.07933866944614,AV. HONÓRIO BICALHO - S/N° - ILHA DO TERRAPLENO DO LESTE - PORTAO 12 - CENTRO - RIO GRANDE - RS - BRASIL - 96200-000
-SSN-5 – Serviço de Sinalização Náutica do Sul,-32.033083318417376,-52.07933866944614,AV. HONÓRIO BICALHO - S/N° - ILHA DO TERRAPLENO DO LESTE - PORTAO 12 - CENTRO - RIO GRANDE - RS - BRASIL - 96201-020
-EsqdHU-51 – 1° Esquadrão de Helicópteros de Emprego Geral do Sul,-32.03324106806505,-52.072176373210276,AV. HONÓRIO BICALHO - S/N° - PORTÃO 12 - ILHA DO TERRAPLENO - RIO GRANDE - RS - BRASIL - 96209-030 
-CiaPol – Companhia de Polícia,-22.84572820639793,-43.10141458979176,AV. PAIVA - S/N° - - NEVES - SÃO GONÇALO - RJ - BRASIL - 24611-970
-DDNM - Diretoria de Desenvolvimento Nuclear da Marinha,-23.564454794298967,-46.73916625944967,AV. PROFESSOR LINEU PRESTES - 2468 - CIDADE UNIVERSITÁRIA - BUTANTÃ - SÃO PAULO - SP - BRASIL - 05508-000
-CeITMSP - Centro de Intendência Tecnológico da Marinha em São Paulo,-23.4720858,-46.6234219,AV. PROFESSOR LINEU PRESTES - 2468 - CIDADE UNIVERSITÁRIA - BUTANTÃ - SÃO PAULO - SP - BRASIL – 05508-000
-AgBAcre – Agência Fluvial de Boca do Acre,-8.75343719103609,-67.398813755963,AV. XV DE NOVEMBRO - 2221 - - CENTRO - BOCA DO ACRE - AM - BRASIL – 69850-000
-DepFMRJ – Depósito de Fardamento da Marinha no Rio de Janeiro,-22.83268096424869,-43.25866028081595,AV.BRASIL - 10500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL – 21012-350
-NTrFluParaguassu – Navio-Transporte Fluvial Paraguassu,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
-NPaPoti – Navio-Patrulha Poti,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
-NApLogFluPotengi – Navio de Apoio Logístico Fluvial Potengí,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
-NPaPiraja – Navio-Patrulha Pirajá,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
-NAsHTenMaximiano – Navio de Assistência Hospitalar Tenente Maximiano,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
-NTrFluAlteLeverger – Navio-Transporte Fluvial Almirante Leverger,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
-EsqdHU-61 – 1° Esquadrão de Helicópteros de Emprego Geral do Oeste,-19.004473395244723,-57.59449122657987,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
-NPaPenedo – Navio-Patrulha Penedo,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL – 79370-000
-GrEOpRibMT – Grupo de Embarcações de Operações Ribeirinhas do Mato Grosso,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL – 79370-000
-CeIMLa – Centro de Intendência da Marinha em Ladário,-19.003151086737283,-57.59675781443346,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL – 79370-000
-NPaPiratini – Navio-Patrulha Piratini,-19.001965559797746,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - LADÁRIO - LADÁRIO - MS - BRASIL – 79370-000
-CHN-6 – Centro de Hidrografia e Navegação do Oeste,-19.0040803,-57.5957924,"Avenida 14 de Março, Setor 1, Ladário, Mato Grosso do Sul, Brazil, 79370-000, "
-AgBJLapa – Agência Fluvial de Bom Jesus da Lapa,-13.2556695,-43.4215849,"Avenida Almirante Beirute, Bom Jesus da Lapa, Bom Jesus da Lapa, Bahia, Brazil, 47600-000, "
-VOJBotas – Veleiro Oceânico João das Botas,-22.912565248430443,-43.1592825309096,AVENIDA ALMIRANTE SYLVIO DE NORONHA - S/N - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20021-010
-NPaGuajara – Navio-Patrulha Guajará,-23.95797337746768,-46.3069950500894,AVENIDA CIDADE DE SANTOS - S/N° - CAIS DA MARINHA - MACUCO - SANTOS - SP - BRASIL – 11015-050
-NpaGuapore – Navio-Patrulha Guaporé,-23.95797337746768,-46.3069950500894,AVENIDA CIDADE DE SANTOS - S/N° - CAIS DA MARINHA - MACUCO - SANTOS - SP - BRASIL – 11015-050
-ComGptPatNavSSE – Comando do Grupamento de Patrulha Naval do Sul-Sudeste,-23.95797337746768,-46.3069950500894,AVENIDA ESMERALDO ST CAMPOS FL - S/N - CAIS DA MARINHA CANAL4-EST - CAIS DA MARINHA CANAL4-EST - SANTOS - SP - BRASIL – 11015-205
-ComTrRef – Comando da Tropa de Reforço,-22.8456847,-43.09959,"Avenida Paiva, Porto Velho, São Gonçalo, Rio de Janeiro, Brazil, 24426-148, "
-UMEM – Unidade Médica Expedicionária da Marinha,-22.8437526,-43.0996185,"Avenida Paiva, Porto Velho, São Gonçalo, Rio de Janeiro, Brazil, 24426-148, "
-BAeNSPA – Base Aérea Naval de São Pedro da Aldeia,-22.820833395026753,-42.09461228464308,"Base Aeronaval, São Pedro da Aldeia - RJ, 28940-000"
-NVAratu – Navio-Varredor Aratu,-12.79665328900707,-38.490481020008566,BASE NAVAL DE ARATU - - SÃO TOMÉ DE PARIPE - PARIPE - SALVADOR - BA - BRASIL - 40810-310
-CVCaboclo – Corveta Caboclo,-12.79665328900707,-38.490481020008566,BASE NAVAL DE ARATU - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
-NHiBTenBoanerges – Navio Hidrográfico Balizador Tenente Boanerges,-12.79665328900707,-38.490481020008566,BASE NAVAL DE ARATU - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
-NApOcPurus - Navio de Apoio Oceânico Purus,-22.867691941710937,-43.13694096310479,BASE NAVAL DO RIO DE JANEIRO - - ILHA DE MOCANGUÊ - - NITEROÍ - RJ - BRASIL - 
-CIAB – Centro de Instrução e Adestramento de Brasília Almirante Domingos de Mattos Cortez,-16.016402892136192,-47.9739263731154,"BR 040 - - KM 4,5 - SANTA MARIA - BRASÍLIA - DF - BRASIL - 72501-100 "
-ERMN – Estação Radiogoniométrica da Marinha em Natal,-5.884833805295115,-35.27926198856893,BR 304 - KM 04 CAIXA POSTAL 095 - S/N - - ENCANTO VERDE - PARNAMIRIM - RN - BRASIL – 59150-000
-NAsHOCruz – Navio de Assistência Hospitalar Oswaldo Cruz,-3.1440328492133642,-59.94935883770639,"BR 319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
-NAsHDoutorMontenegro – Navio de Assistência Hospitalar Doutor Montenegro,-3.1440328492133642,-59.94935883770639,"BR 319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
-NAsHSMeirelles – Navio de Assistência Hospitalar Soares de Meirelles,-3.1440328492133642,-59.94935883770639,"BR 319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
-NAsHCChagas – Navio de Assistência Hospitalar Carlos Chagas,-3.1440328492133642,-59.94935883770639,"BR 319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
-NPaFluPTeixeira – Navio-Patrulha Fluvial Pedro Teixeira,-3.1440328492133642,-59.94935883770639,"BR 319 - - KM 4,5 - VILA BURITI - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
-NPaFluRondonia – Navio-Patrulha Fluvial Rondônia,-3.1440328492133642,-59.94935883770639,"BR 319 - - KM 4,5 - VILA BURITI - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
-NPaFluAmapa – Navio-Patrulha Fluvial Amapá,-3.1440328492133642,-59.94935883770639,"BR 319 - - KM 4,5 - VILA BURITI - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
-NPaFluRoraima – Navio-Patrulha Fluvial Roraima,-3.1440328492133642,-59.94935883770639,"BR 319 - S/N° - KM 4,5 - VILA BURITI - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
-EsqdHU-91 – 1° Esquadrão de Helicópteros de Emprego Geral do Noroeste,-3.143577834718095,-59.94824490356087,"BR-319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
-NPaFluRTavares – Navio-Patrulha Fluvial Raposo Tavares,-3.1440328492133642,-59.94935883770639,"BR-319 - S/N° - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
-DSM – Diretoria de Saúde da Marinha,-22.8962085,-43.1785956,"Brazil, Centro, Rio de Janeiro, Rio de Janeiro, 20091, "
-ETAM - Escola Técnica do Arsenal de Marinha,-22.8949042,-43.1740012,"Brazil, Centro, Rio de Janeiro, State of Rio de Janeiro, 20091-000, "
-CNBW – Comissão Naval Brasileira em Washington,38.9071923,-77.0368707,BRAZILIAN NAVAL COMMISSION - 5130 - MACARTHUR BOULEVARD N.W. - - WASHINGTON - - USA – 200163316
-CPSP – Capitania dos Portos de São Paulo,-23.9582063,-46.307054,"Cais da Marinha, s/n, Avenida Engenheiro Ismael Coelho De Souza, Macuco, Santos, São Paulo, Brazil, 11015-315, "
-CCIMAR – Centro de Controle Interno da Marinha,-22.896841,-43.174986,"Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
-CLogMat – Centro Logístico do Material da Marinha,-22.9070828,-43.18191480000001,"Centro, Rio de Janeiro, State of Rio de Janeiro, Brazil, "
-SIM – Serviço de Identificação da Marinha,-22.896983,-43.1773907,"Centro, Rio de Janeiro, State of Rio de Janeiro, Brazil, 20091-000, "
-DGN – Diretoria-Geral de Navegação,-22.8965908,-43.17732059999999,"Centro, Rio de Janeiro, State of Rio de Janeiro, Brazil, 20091, "
-CCSM – Centro de Comunicação Social da Marinha,-22.8956521,-43.1702573,"Edifício 8, Rua da Pedreira, Ilha das Cobras, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
-Com7°DN – Comando do 7° Distrito Naval,-15.7941193,-47.8707141,"Eixo Monumental, Brasília, Brasília, Distrito Federal, Brazil, 70297-400, "
-SGM – Secretaria-Geral da Marinha,-15.7887865,-47.89335699999999,"Eixo Monumental, Brasília, Brasília, Distrito Federal, Brazil, 70740-610, "
-SSN-2 – Serviço de Sinalização Náutica do Leste,-12.79678731529524,-38.49049395703705,ENTRADA DA BASE NAVAL DE ARATU - S/N° - BNA - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
-CFB – Capitania Fluvial de Brasília,-15.793951789630864,-47.87063350195475,"ESPLANADA DOS MINISTÉRIOS - - BL. ""N"", ANEXO ""A"" - TÉRREO - BRASÍLIA - BRASÍLIA - DF - BRASIL – 70055-900"
-EMA – Estado-Maior da Armada,-15.79545827971751,-47.871324257871116,"ESPLANADA DOS MINISTÉRIOS - - BLOCO N , 5° ANDAR - PLANO PILOTO - BRASÍLIA - DF - BRASIL - 70055-900"
-GCM – Gabinete do Comandante da Marinha,-15.79545827971751,-47.871324257871116,ESPLANADA DOS MINISTÉRIOS - S/N - BLOCO N - 2° E 3° ANDARES - ZONA CIVICO-ADMINISTRATIVA - BRASÍLIA - DF - BRASIL - 70055-900
-CIM – Centro de Inteligência da Marinha,-15.79545827971751,-47.871324257871116,"ESPLANADA DOS MINISTÉRIOS - S/N - BLOCO N, EDIFÍCIO ANEXO, 4° ANDAR - ZONA CENTRAL - BRASÍLIA - DF - BRASIL - 70055-900"
-SECIRM – Secretaria da Comissão Interministerial para os Recursos do Mar,-15.7938676,-47.8710325,"Esplanada dos Ministérios, Brasília, Brasília, Distrito Federal, Brazil, 70297-400, "
-DPCvM – Diretoria do Pessoal Civil da Marinha,-15.7938931,-47.870663,"Esplanada dos Ministérios, Brasília, Brasília, Distrito Federal, Brazil, 70297-400, "
-BNA – Base Naval de Aratu,-12.796461365420448,-38.490488391916365,EST. DA BASE NAVAL - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
-ComGptPatNavL – Comando do Grupamento de Patrulha Naval do Leste,-12.795180413241651,-38.4885887678478,ESTRADA DA BASE NAVAL - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
-ComForMinVar – Comando da Força de Minagem e Varredura,-12.797904607142776,-38.49286212898382,ESTRADA DA BASE NAVAL DE ARATU - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
-ENRN – Estação Naval do Rio Negro,-3.1419455,-59.9474454,"Estrada de Acesso A Base Naval, Manaus, Amazonas, Brazil, "
-BtlBldFuzNav – Batalhão de Blindados de Fuzileiros Navais,-22.78203556443318,-43.159702516783504,ESTRADA DO QUILOMBO - S/N° - BANANAL - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL – 21911-010
-BtlArtFuzNav – Batalhão de Artilharia de Fuzileiros Navais,-22.7838279,-43.1692796,"Estrada do Quilombo, Freguesia (Ilha do Governador), Rio de Janeiro, Rio de Janeiro, Brazil, 21911, "
-"BtlDefNBQR-ARAMAR  – Batalhão De Defesa Nuclear, Biológica, Química E Radiológica De Aramar",-23.4013033,-47.5901407,"Estrada Municipal Iperó, Bacaetava, Iperó, São Paulo, Brazil, 18560-000, "
-ComForS – Comando da Força de Submarinos,-22.917163516165456,-43.850797084879915,ESTRADA PREFEITO WILSON PEDRO FRANCISCO - S/N° - - ILHA DA MADEIRA - ITAGUAÍ - RJ - BRASIL - 23826-640
-COFAMAR – Conselho Financeiro e Administrativo da Marinha,-22.930893,-43.175283,"Flamengo, Rio de Janeiro, Rio de Janeiro, Brazil, 22210-060, "
-CIAAN – Centro de Instrução e Adestramento Aeronaval Almirante José Maria do Amaral Oliveira,-22.8154804,-42.0899784,"Fluminense, São Pedro da Aldeia, Rio de Janeiro, Brazil, 28944-054, "
-CPesFN – Comando do Pessoal de Fuzileiros Navais,-22.8960361,-43.1706815,FORTALEZA DE SÃO JOSÉ - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000
-CMatFN – Comando do Material de Fuzileiros Navais,-22.896115384597362,-43.17048821629093,FORTALEZA SÃO JOSÉ - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-UISM – Unidade Integrada de Saúde Mental,-22.9235644,-43.3416865,"Freguesia, Rio de Janeiro, State of Rio de Janeiro, Brazil, "
-NPaGravatai – Navio-Patrulha Gravataí,-29.93988689999999,-50.99475289999999,"Gravataí district, Gravataí, State of Rio Grande do Sul, Brazil, "
-NPaGuaratuba – Navio-Patrulha Guaratuba,-25.8843865,-48.5762979,"Guaratuba, Guaratuba, Guaratuba, State of Paraná, Brazil, 83280-000, "
-BSIM – Base de Submarinos da Ilha da Madeira,-22.9167327,-43.840969,"Ilha da Madeira, Itaguaí, Rio de Janeiro, Brazil, 23826-640, "
-NAMAtlantico - Navio-Aeródromo Multipropósito Atlântico,-22.8949739093137,-43.17160747186343,ILHA DAS COBRAS - S/N - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-NApOcARongel – Navio de Apoio Oceanográfico Ary Rongel,-22.89655200802037,-43.169813495585885,ILHA DAS COBRAS - S/N° - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-ComGptPatNavSE – Comando do Grupamento de Patrulha Naval do Sudeste,-22.89785948782585,-43.173215106061164,ILHA DAS COBRAS - S/N° - ED. 22 DO AMRJ - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-DAdM – Diretoria de Administração da Marinha,-22.8966616738843,-43.17504048289729,"ILHA DAS COBRAS - S/N° - EDIFÍCIO ALMIRANTE GASTÃO MOTTA, 2° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000"
-DFM – Diretoria de Finanças da Marinha,-22.8966616738843,-43.17504048289729,"ILHA DAS COBRAS - S/N° - EDIFÍCIO ALMIRANTE GASTÃO MOTTA, 3° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
-DGOM – Diretoria de Gestão Orçamentária da Marinha,-22.8966616738843,-43.17504048289729,"ILHA DAS COBRAS - S/N° - EDIFÍCIO ALMIRANTE GASTÃO MOTTA, 3° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
-DAbM – Diretoria de Abastecimento da Marinha,-22.8966616738843,-43.17504048289729,"ILHA DAS COBRAS - S/N° - EDIFÍCIO ALMIRANTE GASTÃO MOTTA, 4° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
-CPN – Centro de Projetos de Navios,-22.897650174471394,-43.17144964156064,ILHA DAS COBRAS - S/N° - EDIFÍCIO N° 16 - ARSENAL DE MARINHA DO RIO DE JANEIRO - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-DIM - Diretoria Industrial Da Marinha,-22.896655136145352,-43.17162478816621,ILHA DAS COBRAS - S/Nº - EDIFÍCIO 11 - 1º ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-EMGEPRON – Empresa Gerencial de Projetos Navais,-22.89772766671321, -43.17293410369673,"Ilha das Cobras, Guanabara - Edifício Almirante Raphael de Azevedo Branco ,Baia de, S/N, Rio de Janeiro - RJ, 20180-001"
-CASNAV – Centro de Análises de Sistemas Navais,-22.8972805,-43.1740245,"Ilha das Cobras, Rio de Janeiro, Rio de Janeiro, Brazil, "
-BNIC – Base Naval da Ilha das Cobras,-22.895805,-43.171689,"Ilha das Cobras, State of Rio de Janeiro, Brazil, "
-AvApCoAlteHess – Aviso de Apoio Costeiro Almirante Hess,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-ComForSup – Comando da Força de Superfície,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-CvJNoronha – Corveta Julio de Noronha,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-ComEsqdAp-1 – Comando do 1° Esquadrão de Apoio,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-STimbira – Submarino Timbira,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-ComDiv-1 – Comando da 1ª Divisão da Esquadra,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-ComDiv-2 – Comando da 2ª Divisão da Esquadra,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-FDefensora – Fragata Defensora,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-900
-FLiberal – Fragata Liberal,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-900
-ComEsqdE-1 – Comando do 1° Esquadrão de Escolta,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24049-900
-CASOP – Centro de Apoio a Sistemas Operativos,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - MOCANGUÊ - NITERÓI - RJ - BRASIL - 24040-300
-CvBarroso – Corveta Barroso,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - PONTA D'AREIA - NITERÓI - RJ - BRASIL - 24040-300
-NDCCAlteSaboia – Navio de Desembarque de Carros de Combate Almirante Sabóia,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - PONTA D'AREIA - NITERÓI - RJ - BRASIL - 24040-300 
-NTAlteGMotta – Navio-Tanque Almirante Gastão Motta,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - BASE NAVAL DO RIO DE JANEIRO - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-FUniao – Fragata União,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/Nº - - CENTRO - NITERÓI - RJ - BRASIL - 22040-300
-UMEsq - Unidade Médica da Esquadra,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/Nº - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-CDDGN – Centro de Desenvolvimento Doutrinário de Guerra Naval,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/Nº - - CENTRO - NITERÓI - RJ - BRASIL - 24040-400
-EDCGMarambaia - Embarcação de Desembarque de Carga Geral Marambaia,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ - S/Nº - - NITERÓI - RIO DE JANEIRO - RJ - BRASIL - 24049-900
-EDCGCamboriu - Embarcação de Desembarque de Carga Geral Camboriú,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ GRANDE - S/N - PONTA D'AREIA - - NITEROÍ - RJ - BRASIL - 24049-900
-STupi – Submarino Tupi,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ GRANDE - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-STapajo – Submarino Tapajó,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ GRANDE - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-NDMBahia - Navio Doca Multipropósito Bahia,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ GRANDE - S/Nº - BASE NAVAL DO RIO DE JANEIRO - PONTA D'AREIA - RIO DE JANEIRO - RJ - BRASIL – 24040-300
-NSSGuillobel - Navio de Socorro Submarino Guillobel,-22.869767032504758,-43.13543274231505,"Ilha de Mocanguê Grande s/n - Ponta D'areia, Niterói - RJ"
-BACS – Base Almirante Castro e Silva,-22.87053707391473,-43.13503273145814,"Ilha de Mocanguê Grande s/n - Ponta D'areia, Niterói - RJ"
-EDCGTambau - Embarcação de Desembarque de Carga Geral Tambaú,-22.869767032504758,-43.13543274231505,"ILHA DE MOCANGUÊ GRANDE, S/N - S/N° - PONTA D'AREIA - - NITEROÍ - RJ - BRASIL - 24049-900"
-ComEsqdE-2 – Comando do 2° Esquadrão de Escolta,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ PEQUENO - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-NEBrasil – Navio-Escola Brasil,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ PEQUENO - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-NVeCisneBranco – Navio Veleiro Cisne Branco,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUÊ PEQUENO - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
-CGAEM – Centro de Guerra Acústica e Eletrônica da Marinha,-22.869767032504758,-43.13543274231505,ILHA DE MOCANGUE PEQUENO - S/N° - - NITERÓI - NITERÓI - RJ - BRASIL - 24040-300
-ComemCh – Comando em Chefe da Esquadra,-22.869767032504758,-43.13543274231505,"Ilha de Mocanguê, Niterói - RJ"
-FConstituicao – Fragata Constituição,-22.869767032504758,-43.13543274231505,ILHA DO MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 22040-300
-NDCCMMaia – Navio de Desembarque de Carros de Combate Mattoso Maia,-22.869767032504758,-43.13543274231505,ILHA DO MOCÂNGUE - S/N° - PONTA DA AREIA - CENTRO - NITERÓI - RJ - BRASIL - 24049 -900
-ComGptPatNavS – Comando do Grupamento de Patrulha Naval do Sul,-32.1403216,-52.10961409999999,"Industrial Tamandaré, Rio Grande, Rio Grande do Sul, Brazil, 96215-840, "
-CINA - Centro Industrial Nuclear de Aramar,-23.3983953,-47.5984034,"Iperó, Bacaetava, São Paulo, Brazil, 18560-000, "
-CeIMBe – Centro de Intendência da Marinha em Belém,-1.3950167,-48.4919737,"Km 4, S/N, Rodovia Arthur Bernardes, Val de Caes, Belém, Pará, Brazil, 66115-300, "
-ComFlotMT – Comando da Flotilha de Mato Grosso,-19.002302,-57.5957002,"Ladário, Setor 8, Mato Grosso do Sul, Brazil, 79370-000, "
-EDCGGuarapari - Embarcação de Desembarque de Carga Geral Guarapari,-22.869767032504758,-43.13543274231505,LHA DE MOCANGUÊ GRANDE - S/N° - PONTA D'AREIA - - NITEROÍ - RJ - BRASIL - 24049-900
-DelPSeguro – Delegacia da Capitania dos Portos em Porto Seguro,-16.4520921,-39.0660524,"N° 195, Rua São Pedro, Centro, Porto Seguro, Bahia, Brazil, 45810-000, "
-AgEirunepe – Agência Fluvial de Eirunepé,-6.666947299999999,-69.865921,"n°113, Rua Felipe Cunha, Centro, Eirunepé, Amazonas, Brazil, 69880-000, "
-GRUMEC – Grupamento de Mergulhadores de Combate,-22.8751255,-43.13582,"Niterói, Rio de Janeiro, Brazil, "
-CIAMA – Centro de Instrução e Adestramento Almirante Áttila Monteiro Aché,-22.8739844,-43.1332899,"Niterói, Rio de Janeiro, Brazil, 24040-300, "
-CeIMNi - Centro de Intendência da Marinha em Niterói,-22.8807073,-43.1013526,"Niterói, State of Rio de Janeiro, Brazil, "
-GrEOpRibN – Grupo de Embarcações de Operações Ribeirinhas do Norte,-2.0953182,-58.3716902,"North Region, Brazil, "
-STikuna – Submarino Tikuna,-22.869767032504758,-43.13543274231505,OTR ILHA DE MOCANGUE GRANDE - S/N° - - PONTA D'AREIA - NITEROI - RJ - BRASIL - 24.049-900 
-AgParaty – Agência da Capitania dos Portos em Paraty,-23.2197106,-44.7167452,"Paraty, Paraty, State of Rio de Janeiro, Brazil, "
-MParnaiba – Monitor Parnaíba,-2.9096093,-41.7537178,"Parnaíba, Parnaíba, State of Piauí, Brazil, "
-NPaGurupa – Navio-Patrulha Gurupá,-22.89899542794569,-43.17014141987168,PCA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000
-NPaGurupi – Navio-Patrulha Gurupi,-22.89899542794569,-43.17014141987168,PCA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000
-SSPM – Serviço de Seleção do Pessoal da Marinha,-22.89936333180381,-43.17672761539194,PÇA. BARÃO DE LADÁRIO - S/N° - COMPLEXO DO 1° DN - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-GptFNRJ – Grupamento de Fuzileiros Navais do Rio de Janeiro,-22.8273076,-43.26540199999999,"Penha, Rio de Janeiro, State of Rio de Janeiro, Brazil, "
-CMEM – Centro de Manutenção de Embarcações Miúdas,-22.8713889,-43.1342531,"Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24040-300, "
-DHN – Diretoria de Hidrografia e Navegação,-22.8830396,-43.1339724,"Ponta Dareia, Niterói, Rio de Janeiro, Brazil, "
-CMASM – Centro de Mísseis e Armas Submarinas da Marinha,-22.8357598,-43.1089216,"Porto Velho, São Gonçalo, Rio de Janeiro, Brazil, "
-NPaOcAPA – Navio-Patrulha Oceânico APA,-22.864880981592236,-43.13898449010604,PRAÇA BARÃO DE LADÁRIO - 118 - - ILHA DAS COBRAS - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-CoNavOpEsp – Comando Naval de Operações Especiais,-22.897822100433665,-43.176985715332876,"PRAÇA BARÃO DE LADÁRIO - S/N - EDIFÍCIO ALMIRANTE TAMANDARÉ, 7º ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
-COMPAAz – Comando de Operações Marítimas e Proteção da Amazônia Azul,-22.897822100433665,-43.176985715332876,PRAÇA BARÃO DE LADÁRIO - S/N/ - ED. ALTE TAMANDARE - 6° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-OCM – Odontoclínica Central da Marinha,-22.896304610269507,-43.17950423145577,PRAÇA BARÃO DE LADÁRIO - S/N° - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 21910-000
-BtlNav – Batalhão Naval,-22.89640157328757,-43.17140357468155,PRAÇA BARÃO DE LADÁRIO - S/N° - - ILHA DAS COBRAS - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-NPaOcAmazonas – Navio-Patrulha Oceânico Amazonas,-22.864880981592236,-43.13898449010604,PRAÇA BARÃO DE LADÁRIO - S/N° - - ILHA DAS COBRAS - RIO DE JANEIRO - RJ - BRASIL – 20091-000
-SASM – Serviço de Assistência Social da Marinha,-22.896118266112744,-43.17909902436166,PRAÇA BARÃO DE LADÁRIO - S/N° - COMPLEXO DO 1° DN - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-DGPM – Diretoria-Geral do Pessoal da Marinha,-22.897822100433665,-43.176985715332876,"PRAÇA BARÃO DE LADÁRIO - S/N° - ED ALMIRANTE TAMANDARÉ, 7° ANDAR - PRAÇA MAUÁ- CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
-DPMM – Diretoria do Pessoal Militar da Marinha,-22.897957742404717,-43.177006131848685,"PRACA BARAO DE LADARIO - S/N° - ED. ALTE TAMANDARE, 4° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
-DEnsM – Diretoria de Ensino da Marinha,-22.897957742404717,-43.177006131848685,"PRAÇA BARÃO DE LADÁRIO - S/N° - ED. ALTE. TAMANDARÉ, 5° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
-FIndependencia – Fragata Independência,-22.8949739093137,-43.17160747186343,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-FRademaker – Fragata Rademaker,-22.8949739093137,-43.17160747186343,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-AvInGMJansen – Aviso de Instrução Guarda-Marinha Jansen,-22.899556141059126,-43.168445906308754,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-AvInGMBrito – Aviso de Instrução Guarda-Marinha Brito,-22.899556141059126,-43.168445906308754,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-AvInAspNasc – Aviso de Instrução Aspirante Nascimento,-22.899556141059126,-43.168445906308754,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-CiaPolBtlNav – Companhia de Polícia do Batalhão Naval,-22.8962211,-43.1722296,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000
-CPO – Comissão de Promoção de Oficiais,-22.897822100433665,-43.176985715332876,PRAÇA BARÃO DE LADARIO - S/Nº - ED. ALTE TAMANDARE - 3° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-STamoio – Submarino Tamoio,-22.8949739093137,-43.17160747186343,PRAÇA BARÃO DE LADÁRIO - S/Nº - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
-AgNSNQ - Agência Naval de Segurança Nuclear e Qualidade,-22.897498393209688,-43.17403925904834,"PRAÇA BARÃO DE LADÁRIO S/N, RUA DA PONTE - S/Nº - EDIFÍCIO 23 DO AMRJ 2º ANDAR - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
-ComOpNav – Comando de Operações Navais,-22.8979701,-43.1770284,"Praça Barão de Ladário, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
-SVPM – Serviço de Veteranos e Pensionistas da Marinha,-22.897953,-43.1768783,"Praça Barão de Ladário, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
-DelGuaira – Delegacia Fluvial de Guaíra,-24.066431207953855,-54.23366587678429,PRAÇA PRESIDENTE DUTRA - 88 - - VILA VELHA - GUAÍRA - PR - BRASIL – 85980-000
-DepCMRJ – Depósito de Combustíveis da Marinha no Rio de Janeiro,-22.822098984315247,-43.189204475071904,PRAIA DA BICA - 1361 - JARDIM GUANABARA - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL – 21931-076
-CHN-9 – Centro de Hidrografia e Navegação do Noroeste,-3.1437210619474234,-59.94963621115756,R RIO ITAQUAI - S/N° - - VILA BURITI - MANAUS - AM - BRASIL - 69.072-080 
-NHoFluRioBranco - Navio Hidroceanográfico Fluvial Rio Branco,-3.1468588529365635,-59.94914154750269,R RIO ITAQUAI - S/N° - - VILA BURITI - MANAUS - AM - BRASIL - 69.072-080 
-DGDNTM – Diretoria-Geral de Desenvolvimento Nuclear e Tecnológico da Marinha,-22.89711905152199,-43.17421753215755,"R. da Ponte - Centro, Rio de Janeiro - RJ"
-Com8°DN – Comando do 8° Distrito Naval,-23.593572417184184,-46.64697160182957,"R. Estado de Israel, 776 - Vila Clementino, São Paulo - SP, 04022-002"
-CMS – Centro de Manutenção de Sistemas da Marinha,-22.8959703,-43.1679751,"Rio de Janeiro, Centro, Rio de Janeiro, Brazil, "
-PM – Presídio da Marinha,-22.8959731,-43.17288370000001,"Rio de Janeiro, Centro, Rio de Janeiro, Brazil, 20091-000, "
-CPMM – Centro de Perícias Médicas da Marinha,-22.8958597,-43.1731206,"Rio de Janeiro, Centro, Rio de Janeiro, Brazil, 20091-000, "
-CGCFN – Comando-Geral do Corpo de Fuzileiros Navais,-22.8962427,-43.1716226,"Rio de Janeiro, Centro, Rio de Janeiro, Brazil, 21911-000, "
-BNRJ – Base Naval do Rio de Janeiro,-22.9068467,-43.1728965,"Rio de Janeiro, Rio de Janeiro, State of Rio de Janeiro, Brazil, "
-EsqdHU-41 - 1° Esquadrão de Helicópteros de Emprego Geral do Norte,-1.3813482013979412,-48.48399758651885,ROD ARTHUR BERNARDES - S/N - - VAL-DE-CAES - BELEM - PA - BRASIL - 66.115-000
-NApOcIguatemi - Navio de Apoio Oceânico Iguatemi,-1.3948889988929085,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N - BASE NAVAL DE VAL-DE-CÃES - - BELÉM - PA - BRASIL - 66115-000
-AvHoFluRioXingu - Aviso Hidroceanográfico Fluvial Rio Xingu,-1.3948889988929085,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - - VAL DE CÃES - BELÉM - PA - BRASIL – 66115-300
-NPaBocaina – Navio-Patrulha Bocaina,-1.3948889988929085,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66110-300
-NPaGuanabara – Navio-Patrulha Guanabara,-1.3948889988929085,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66110-300
-NAPara – Navio Auxiliar Pará,-1.3948889988929085,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66110-300
-ComGptPatNavN – Comando do Grupamento de Patrulha Naval do Norte,-1.3981306954168435,-48.4911753432022,RODOVIA ARTHUR BERNARDES - S/N° - BASE NAVAL DE VAL-DE-CAES - BNVC - VAL-DE-CAES - BELÉM - PA - BRASIL - 66110-300
-NPaPampeiro – Navio-Patrulha Pampeiro,-1.3948889988929085,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - BASE NAVAL DE VAL-DE-CAES - VAL-DE-CAES - BELÉM - PA - BRASIL - 66115-000
-NPaBracui – Navio-Patrulha Bracuí,-1.3948889988929085,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - BASE NAVAL DE VAL-DE-CÃES - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66115-030
-NPaGuaruja – Navio-Patrulha Guarujá,-1.3948889988929085,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - BASE NAVAL DE VAL-DE-CÃES - VAL-DE-CÃES - BELÉM - PA - BRASIL – 66110-330
-NHoGSampaio – Navio Hidroceanográfico Garnier Sampaio,-1.3948889988929085,-48.493578412417925,RODOVIA ARTUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66115-000
-NHiBTenCastelo – Navio Hidrográfico Balizador Tenente Castelo,-1.3948889988929085,-48.493578412417925,RODOVIA ARTUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66115-810
-AvHoFluRioTocantins – Aviso Hidroceanográfico Fluvial Rio Tocantins,-1.3948889988929085,-48.493578412417925,"RODOVIA ARTUR BERNARDES, S/Nº - - S/N° - VAL DE CÃES - VAL DE CÃES - BELÉM - PA - BRASIL – 66.110-300"
-ERMB – Estação Rádio da Marinha em Brasília,-15.996560123066622,-47.90305387018488,"RODOVIA DF-001 - - KM 45, ÁREA ALFA - SANTA MARIA - BRASÍLIA - DF - BRASIL – 70051-970"
-CmdoTrDbq – Comando da Tropa de Desembarque,-22.80451897899867,-43.290438004826,RODOVIA WASHINGTON LUIS - S/N° - KM 124 - PARQUE DUQUE DE CAXIAS - DUQUE DE CAXIAS - RJ - BRASIL - 25085-000
-NPaMacae – Navio Patrulha Macaé,-22.89899542794569,-43.17014141987168,RUA 1° DE MARÇO - 118 - BARAO DE LADARIO 11 E 12 - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000
-CTIM – Centro de Tecnologia da Informação da Marinha,-22.899156869369097,-43.176983773005674,"RUA 1° DE MARÇO - 118 - EDIFÍCIO BARÃO DE LADÁRIO, SOBRELOJA - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000"
-DAerM – Diretoria de Aeronáutica da Marinha,-22.899156869369097,-43.176983773005674,RUA 1º DE MARCO - 118 - ED. BARÃO DE LADÁRIO 13° E 14° ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000
-DOCM – Diretoria de Obras Civis da Marinha,-22.899156869369097,-43.176983773005674,RUA 1º DE MARÇO - 118 - ED. BARÃO DE LADÁRIO 15° E 16° ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000
-DSAM – Diretoria de Sistemas de Armas da Marinha,-22.899156869369097,-43.176983773005674,RUA 1º DE MARÇO - 118 - ED. BARÃO DE LADÁRIO 17° AO 20° ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000
-DGePM - Diretoria de Gestão de Programas da Marinha,-22.899156869369097,-43.176983773005674,"RUA 1º DE MARÇO - 118 - ED. BARÃO DE LADÁRIO,10º ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000"
-DGMM – Diretoria-Geral do Material da Marinha,-22.89922605251052,-43.17690867115095,"RUA 1º DE MARÇO - 118 - EDIFÍCIO BARÃO DE LADÁRIO - 10°,11º E 12º ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000"
-DCTIM – Diretoria de Comunicações e Tecnologia da Informação da Marinha,-22.899156869369097,-43.176983773005674,"RUA 1º DE MARÇO - 118 - EDIFÍCIO BARÃO DE LADÁRIO, 3°,4° E 5° ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000"
-NHoCSul – Navio Hidroceanográfico Cruzeiro do Sul,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAI - S/N° - - PONTA D'AREIA - NITERÓI - RJ - BRASIL - 24048-900 
-NHoTaurus – Navio Hidroceanográfico Taurus,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAI - S/N° - - PONTA D'AREIA - NITERÓI - RJ - BRASIL – 20091-000
-NHoFAlteGAranha – Navio Hidroceanográfico Faroleiro Almirante Graça Aranha,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAI - S/N° - - PONTA DA ARMAÇÃO - NITERÓI - RJ - BRASIL - 24048-900
-CIAARA – Centro de Instrução e Adestramento Almirante Radler de Aquino,-22.8823081,-43.1335685,"Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24048-900, "
-AvPqHoAspMoura – Aviso de Pesquisa Hidroceanográfico Aspirante Moura,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAY - S/N - - PONTA DA ARMAÇÃO - NITERÓI - RJ - BRASIL - 24048-900
-NPqHoVitaldeOliveira – Navio de Pesquisa Hidroceanográfico Vital de Oliveira,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAY - S/N - PONTA DA ARMAÇÃO - NITERÓI - RIO DE JANEIRO - RJ - BRASIL - 24048-900
-NHoAValle – Navio Hidroceanográfico Amorim do Valle,-22.88511865479756,-43.13517163443377,RUA BARÂO DE JACEGUAY - S/N° - - PONTA DA ARMAÇÃO - NITERÓI - RJ - BRASIL - 24048-900
-NOcAntares – Navio Oceanográfico Antares,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAY - S/N° - - PONTA DA ARMAÇÃO - NITERÓI - RJ - BRASIL - 24048-900
-AgParintins – Agência Fluvial de Parintins,-2.6235167614938337,-56.733633545628386,RUA BENJAMIM DA SILVA - 1820 - - CENTRO - PARINTINS - AM - BRASIL – 69151-270
-NBFMSeixas – Navio Balizador Faroleiro Mario Seixas,-25.516962595288046,-48.50179358775559,RUA BENJAMIN CONSTANT - 707 - - COSTEIRA - PARANAGUÁ - PR - BRASIL - 83203-190
-SSN-8 - Serviço de Sinalização Náutica do Sul-Sudeste,-25.516962595288046,-48.50179358775559,RUA BENJAMIN CONSTANT - 707 - - COSTEIRA - PARANAGUÁ - PR - BRASIL – 83203-190
-EsqdQE-1 – 1° Esquadrão de Aeronaves Remotamente Pilotadas,-22.820893203266362,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N - BASE AERONAVAL - SÃO PEDRO DA ALDEIA - RIO DE JANEIRO - RJ - BRASIL - 28.944-054
-EsqdHA-1 – 1° Esquadrão de Helicópteros de Esclarecimento e Ataque,-22.820893203266362,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
-EsqdHI-1 – 1° Esquadrão de Helicópteros de Instrução,-22.820893203266362,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
-EsqdHU-1 – 1° Esquadrão de Helicópteros de Emprego Geral,-22.820893203266362,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
-EsqdHU-2 – 2° Esquadrão de Helicópteros de Emprego Geral,-22.820893203266362,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
-EsqdVF-1 – 1° Esquadrão de Aviões de Interceptação e Ataque,-22.820893203266362,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
-EsqdHS-1 – 1° Esquadrão de Helicópteros Antissubmarino,-22.820893203266362,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28944-054
-GAerNavMan – Grupo Aéreo Naval de Manutenção,-22.820893203266362,-42.09461686445568,RUA COMANDANTE ITURIEL - S/Nº - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28944-054
-CMAM – Centro Médico Assistencial da Marinha,-22.923501332170492,-43.22337845854632,RUA CONDE DE BONFIM - 54 - - TIJUCA - RIO DE JANEIRO - RJ - BRASIL - 20520-053
-AMRJ – Arsenal de Marinha do Rio de Janeiro,-22.8970774,-43.1744798,"Rua da Ponte, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, "
-CPM – Capitania dos Portos em Macaé,-22.3866934,-41.7710437,"Rua Denach Lima, Imbetiba, Macaé, Rio de Janeiro, Brazil, 27915-530, "
-NVAtalaia – Navio-Varredor Atalaia,38.703898,-8.9254747,"Rua do Bairro Novo da Atalaia, Atalaia, Setúbal, Portugal, 2870, "
-AgSFAraguaia - Agência Fluvial de São Félix do Araguaia,-11.619667,-50.6647033,"Rua do Comercio, Centro, São Félix do Araguaia, Mato Grosso, Brazil, 78670-000, "
-DPHDM – Diretoria de Patrimônio Histórico e Documentação da Marinha,-22.903907862767916,-43.17318569739053,RUA DOM MANUEL - 15 - PRACA XV - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20090-010
-DelUruguaiana – Delegacia da Capitania dos Portos em Uruguaiana,-29.74985388300687,-57.08507080045588,RUA DOMINGOS DE ALMEIDA - 1194 - - CENTRO - URUGUAIANA - RS - BRASIL – 97500-002
-AvHoFluRioNegro – Aviso Hidroceanográfico Fluvial Rio Negro,-3.1440328492133642,-59.94935883770639,RUA ITAGUAÍ - S/N° - - VILA BURITI - MANAUS - AM - BRASIL - 69.072-080 
-AvHoFluRioSolimoes – Aviso Hidroceanográfico Fluvial Rio Solimões,-3.1440328492133642,-59.94935883770639,RUA ITAGUAÍ - S/N° - - VILA BURITI - MANAUS - AM - BRASIL – 69372-080
-CDDCFN – Comando do Desenvolvimento Doutrinário do Corpo de Fuzileiros Navais,-22.781789779027136,-43.15891148846765,RUA MAGNO MARTINS - S/N° - - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL - 21911-000
-BtlCmdoCt – Batalhão de Comando e Controle,-22.785793983581105,-43.16346294011294,RUA MAGNO MARTINS - S/N° - BANCÁRIOS - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL – 21911-000
-DelIlheus – Delegacia da Capitania dos Portos em Ilhéus,-14.784848801149913,-39.03498467050755,RUA MAJOR HOMEM DEL REY - 217 - - CIDADE NOVA - ILHÉUS - BA - BRASIL - 45652-180
-EsIMar – Escola de Inteligência da Marinha,-22.899407202981052,-43.18088151718763,RUA MAYRINK VEIGA - 28 - 6° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20090-050
-AgHumaita – Agência Fluvial de Humaitá,-7.4885081534447115,-63.024430735598365,RUA PORTOBRÁS - 55 - - SÃO DOMINGO SÁVIO - HUMAITÁ - AM - BRASIL – 69800-000
-CADIM – Centro de Adestramento da Ilha da Marambaia,-23.060785,-43.9860147,RUA PROFESSOR RAFAEL LEVI MIRANDA - S/N° - ITACURUÇÁ - MANGARATIBA - RIO DE JANEIRO - RJ - BRASIL – 23860-000
-GrEOpRibAM – Grupo de Embarcações de Operações Ribeirinhas do Amazonas,-3.1441363337773836,-59.94932464180356,RUA RIO ITAQUAÍ - S/N° - - BAIRRO VILA BURITI - MANAUS - AM - BRASIL – 69072-080
-NHiBComteManhaes – Navio Hidrográfico Balizador Comandante Manhães,,,RUA SILVIO PÉLICO - - - ALECRIM - NATAL - RN - - 59040-150
-HNNa – Hospital Naval de Natal,-5.78939937802494,-35.221775159744006,RUA SILVIO PELICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150
-NPaGoiana – Navio-Patrulha Goiana,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150
-NPaMacau – Navio-Patrulha Macau,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150
-BNN – Base Naval de Natal,-5.78939937802494,-35.221775159744006,RUA SILVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150
-NPaOcAraguari - Navio-Patrulha Oceânico Araguari,-5.78933540205538,-35.22265249056914,RUA SÍLVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150 
-ComGptPatNavNE – Comando do Grupamento de Patrulha Naval do Nordeste,-5.78939937802494,-35.221775159744006,RUA SÍLVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150 - Caixa Postal n° 841 
-NPaGrajau – Navio-Patrulha Grajaú,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - BASE NAVAL DE NATAL - ALECRIM - NATAL - RN - BRASIL - 59040-150
-NPaGuaiba – Navio-Patrulha Guaíba,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - BASE NAVAL DE NATAL - ALECRIM - NATAL - RN - BRASIL - 59040-150
-RbAMTriunfo – Rebocador de Alto-Mar Triunfo,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - BASE NAVAL DE NATAL - ALECRIM - NATAL - RN - BRASIL - 59040-150 
-NPaGrauna – Navio-Patrulha Graúna,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - BNN - ALECRIM - NATAL - RN - BRASIL - 59040-150
-CeIMNa – Centro de Intendência da Marinha em Natal,-5.792604,-35.2193182,"Rua Sílvio Pelico, Alecrim, Natal, Rio Grande do Norte, Brazil, 59040-150, "
-SSN-3 – Serviço de Sinalização Náutica do Nordeste,-5.792604,-35.2193182,"Rua Sílvio Pelico, Alecrim, Natal, Rio Grande do Norte, Brazil, 59040-150, "
-CPRJ – Capitania dos Portos do Rio de Janeiro,-22.9010161,-43.1744747,"S/N, Avenida Alfred Agache, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20021-000, "
-TM – Tribunal Marítimo,-22.9011655,-43.1743226,"s/n, Avenida Alfred Agache, Praça XV de Novembro, Rio de Janeiro, Rio de Janeiro, Brazil, 20040-010, "
-EN – Escola Naval,-22.9138426,-43.1598942,"s/n, Avenida Almirante Silvio de Noronha, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20021-010, "
-Com2°DN – Comando do 2° Distrito Naval,-12.9742029,-38.51521049999999,"s/n, Avenida das Naus, Comercio, Salvador, Bahia, Brazil, 40301-155, "
-SNNF – Sanatório Naval de Nova Friburgo,-22.2917847,-42.533382,"s/n, Avenida Governador Geremias de Mattos Fontes, Centro, Nova Friburgo, Rio de Janeiro, Brazil, 28613-140, "
-BtlVtrAnf – Batalhão de Viaturas Anfíbias,-22.8465736,-43.1010346,"S/N, Avenida Paiva, Neves, São Gonçalo, Rio de Janeiro, Brazil, 24426-140, "
-BFNIF – Base de Fuzileiros Navais da Ilha das Flores,-22.8458546,-43.1014661,"s/n, Avenida Paiva, Neves, São Gonçalo, Rio de Janeiro, Brazil, 24426-148, "
-1°BtlInfFuzNav – 1° Batalhão de Infantaria de Fuzileiros Navais - (Batalhão Riachuelo),-22.784548,-43.15845059999999,"S/N, Estrada do Quilombo, Bananal (Ilha do Governador, Rio de Janeiro, Rio de Janeiro, Brazil, 21911-010, "
-BFNIG – Base de Fuzileiros Navais da Ilha do Governador,-22.7821672,-43.1590216,"S/N, Estrada do Quilombo, Freguesia (Ilha do Governador), Rio de Janeiro, Rio de Janeiro, Brazil, 21911-016, "
-BtlCmbAe – Batalhão de Combate Aéreo,-22.7846045,-43.1673505,"S/N, Estrada do Quilombo, Freguesia (Ilha do Governador), Rio de Janeiro, Rio de Janeiro, Brazil, 21911-016, "
-ERMRJ – Estação Rádio da Marinha no Rio de Janeiro,-22.8244672,-43.1779473,"s/n, Estrada do Rio Jequiá, Ribeira, Rio de Janeiro, Rio de Janeiro, Brazil, 21930-007, "
-CIAW – Centro de Instrução Almirante Wandenkolk,-22.8833595,-43.1749243,"S/n, Ilha das Enxadas, Baía de Guanabara, Rio de Janeiro, Rio de Janeiro, Brazil, "
-HCM – Hospital Central da Marinha,-22.8961759,-43.1740271,"s/n, Praça Barão de Ladário, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
-BNVC – Base Naval de Val-de-Cães,-1.3968229,-48.4895635,"S/N, Rodovia Arthur Bernardes, Km 4, Val de Caes, Belém, Pará, Brazil, 66115-300, "
-CAMR – Centro de Auxílios à Navegação Almirante Moraes Rego,-22.8825509,-43.1343198,"S/N, Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24048-900, "
-GNHo – Grupamento de Navios Hidroceanográficos,-22.882499,-43.134539,"s/n, Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24048-900, "
-CHM – Centro de Hidrografia da Marinha,-22.8847897,-43.1334776,"s/n, Rua Barão de Jaceguaí, Ponta da Armação, Niterói, Rio de Janeiro, Brazil, 24048-900, "
-Com9°DN – Comando do 9° Distrito Naval,-3.1327724,-60.03078069999999,"s/n, Rua Bernardo Ramos, Centro, Manaus, Amazonas, Brazil, 69005-310, "
-CFAOC – Capitania Fluvial da Amazônia Ocidental,-3.133574,-60.030445,"s/n, Rua Bernardo Ramos, Centro, Manaus, Amazonas, Brazil, 69005-310, "
-Com4°DN – Comando do 4° Distrito Naval,-1.4634653,-48.5038806,"s/n, Rua Carneiro da Rocha, Cidade Velha, Belém, Pará, Brazil, 66023-110, "
-Com3°DN – Comando do 3° Distrito Naval,-5.7668191,-35.2026203,"s/n, Rua Coronel Flamínio, Santos Reis, Natal, Rio Grande do Norte, Brazil, 59010-500, "
-2°BtlOpRib – 2° Batalhão de Operações Ribeirinhas,-1.3947075,-48.4538303,"S/N, Rua da Marinha, Marambaia, Belém, Pará, Brazil, 66620-430, "
-EAMES – Escola de Aprendizes-Marinheiros do Espírito Santo,-20.3278441,-40.2955099,"s/n, Rua Inhoa, Prainha, Vila Velha, Espírito Santo, Brazil, 29100-900, "
-2°BtlInfFuzNav – 2° Batalhão de Infantaria de Fuzileiros Navais - (Batalhão Humaitá),-22.7863705,-43.1759976,"S/N, Rua Magno Martins, Bancários, Rio de Janeiro, Rio de Janeiro, Brazil, 21911-430, "
-3°BtlInfFuzNav – 3° Batalhão de Infantaria de Fuzileiros Navais - (Batalhão Paissandu),-22.7863705,-43.1759976,"S/N, Rua Magno Martins, Bancários, Rio de Janeiro, Rio de Janeiro, Brazil, 21911-430, "
-CIASC – Centro de Instrução Almirante Sylvio de Camargo,-22.7809917,-43.1741368,"s/n, Rua Magno Martins, Ilha do Governador, Rio de Janeiro, Rio de Janeiro, Brazil, 21911-430, "
-HNBra – Hospital Naval de Brasília,-15.8148476,-47.9146472,"s/n, Via W5 Sul, Asa Sul, Brasília, Distrito Federal, Brazil, 70390-115, "
-1°BtlOpRib – Primeiro Batalhão de Operações Ribeirinhas,-3.1295024,-59.9468415,"s/n°, Avenida Abiurana, Mauazinho, Manaus, Amazonas, Brazil, 69075-705, "
-CFAT – Capitania Fluvial do Araguaia-Tocantins,-10.2294235,-48.3703499,"s/nº, 913 Sul s/nº - Praia do Prata, Plano Diretor Sul, Palmas, Tocantins, Brazil, 77017-171, "
-CeIMSPA – Centro de Intendência em São Pedro da Aldeia,-22.8187267,-42.0909092,"s/nº, Rua Comandante Ituriel, Base Aeronaval, São Pedro da Aldeia, Rio de Janeiro, Brazil, 28940-000, "
-EAMPE – Escola de Aprendizes-Marinheiros de Pernambuco,-8.0361037,-34.8671659,"Salgadinho, Olinda, Pernambuco, Brazil, 53110-901, "
-ERMS – Estação Rádio da Marinha em Salvador,-12.9777378,-38.5016363,"Salvador, Salvador, State of Bahia, Brazil, "
-CeIMSa – Centro de Intendência da Marinha em Salvador,-12.9777378,-38.5016363,"Salvador, Salvador, State of Bahia, Brazil, "
-AgSJBarra – Agência da Capitania dos Portos em São João da Barra,-21.6267746,-41.0192315,"São João da Barra, Atafona, São João da Barra, State of Rio de Janeiro, Brazil, 28200, "
-ComDivAnf – Comando da Divisão Anfíbia,-22.788209476939418,-43.16160415970821,TRAVESSA TEOTONIO FREIRE - 64 - BANANAL - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL – 21911-000
-GptFNB – Grupamento de Fuzileiros Navais de Brasília,-15.786211,-47.8581412,"Trecho 2, SCEN, Brasília, Brasília, Distrito Federal, Brazil, 70071-125, "
-GptFNSP - Grupamento de Fuzileiros Navais de São Paulo,,,
+IPqM,-22.820754,-43.1875794,"02, Rua Ipiru, Cacuia, Rio de Janeiro, Rio de Janeiro, Brazil, 21931-095, "
+CPBA,-12.9749626,-38.5153604,"1-193, Avenida das Naus, Comercio, Salvador, Bahia, Brazil, 40015-270, "
+BFLa,-19.004394,-57.5985504,"1, Avenida 14 de Março, Centro, Ladário, Mato Grosso do Sul, Brazil, 79370-000, "
+DelItacuruca,-22.9303547,-43.9102901,"1, Praça Marcílio Dias, Itacuruçá, Mangaratiba, Rio de Janeiro, Brazil, 23860-000, "
+AgCaceres,-16.063539,-57.68845229999999,"1, Rua Professor Rizo, Centro, Cáceres, Mato Grosso, Brazil, 78200-000, "
+AgPMurtinho,-21.7019923,-57.89154119999999,"1011, Rua Coronel Pedro Celestino, Centro, Porto Murtinho, Mato Grosso do Sul, Brazil, 79280-000, "
+COMRJ,-22.833271,-43.2615699,"10500, Avenida Brasil, Olaria, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
+CIANB,-22.8354238,-43.259803,"10500, Avenida Brasil, Olaria, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-351, "
+CCIM,-22.8342756,-43.260799,"10500, Avenida Brasil, Penha, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
+DelItajai,-26.9058456,-48.6539888,"1055, Avenida Prefeito Paulo Bauer, Centro, Itajaí, Santa Catarina, Brazil, 88301-020, "
+CEFAN,-22.832152,-43.2645892,"10590, Avenida Brasil, Penha, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
+CMN,-22.829061,-43.2704159,"10592, Avenida Brasil, Penha, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
+BFNRM,-22.8038,-43.291839,"1060, Avenida Trevo das Missões, Cordovil, Duque de Caxias, Rio de Janeiro, Brazil, 25085, "
+CIAA,-22.8270441,-43.2733548,"10946, Avenida Brasil, Penha, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
+ERMRG,-32.1433146,-52.1108342,"11, Rua Nova Onze, Industrial Tamandaré, Rio Grande, Rio Grande do Sul, Brazil, 96215-840, "
+CFMG,-19.9677344,-43.9344123,"1100, Avenida Celso Porfírio Machado, Belvedere, Belo Horizonte, Minas Gerais, Brazil, 30320-400, "
+AgCamocim,-2.9012558,-40.8431118,"113, Rua Doutor João Thomé, Camocim, Camocim, Ceará, Brazil, 62400-000, "
+DEN,-22.8993831,-43.1770935,"118, Rua Primeiro de Março, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20010-000, "
+CCCPM,-22.8992088,-43.1796941,"11º andar, 39, Avenida Rio Branco, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20040-009, "
+AgABranca,-4.9562484,-37.1366742,"12, Rua João Félix, Centro, Areia Branca, Rio Grande do Norte, Brazil, 59655-000, "
+GptFNNa,-5.7951049,-35.227678,"120-138, Rua Marcílio Dias, Quintas, Natal, Rio Grande do Norte, Brazil, 59040-000, "
+HNRe,-8.0462435,-34.87537,"1200, Avenida Cruz Cabugá, Santo Amaro, Recife, Pernambuco, Brazil, 50040-000, "
+CN,-23.0146625,-44.32905400000001,"1234-1312, Avenida Marquês de Leão, Centro, Angra dos Reis, Rio de Janeiro, Brazil, 23900-070, "
+DelAReis,-23.0100089,-44.32077940000001,"13, Avenida Almirante Júlio César de Noronha, Centro, Angra dos Reis, Rio de Janeiro, Brazil, 23900-010, "
+HNLa,-19.0024902,-57.59763539999999,"13, Rua Almirante Frontin, Setor 1, Ladário, Mato Grosso do Sul, Brazil, 79370-000, "
+AgCSul,-7.611614499999999,-72.6837259,"130, Rua José Soriano Silva, Formoso, Cruzeiro do Sul, Acre, Brazil, 69980-000, "
+GptFNSa,-12.963583,-38.5075677,"1300, Avenida da França, Comercio, Salvador, Bahia, Brazil, 40010-000, "
+CHN-4,-1.395941,-48.4883543,"133-189, Rua Almirante Dantas Torres, Val de Caes, Belém, Pará, Brazil, 66115-520, "
+CTecCFN,-22.8091311,-43.29519699999999,"13476, Avenida Brasil, Parada de Lucas, Rio de Janeiro, Rio de Janeiro, Brazil, 21010-076, "
+CAAML,-22.8144559,-43.2931275,"13476, Avenida Brasil, Parada de Lucas, Rio de Janeiro, Rio de Janeiro, Brazil, 21012-350, "
+DelSFSul,-26.2447063,-48.63985940000001,"138, Rua Doutor Lauro Müller, Centro, São Francisco do Sul, Santa Catarina, Brazil, 89240-000, "
+DelPEpitacio,-21.7588159,-52.1105119,"14-71, Rua Porto Alegre, Vila Santa Rosa, Presidente Epitácio, São Paulo, Brazil, 19470-000, "
+HNSa,-12.9622038,-38.506391,"1400, Avenida da França, Comercio, Salvador, Bahia, Brazil, 40010-000, "
+CFT,-4.2342883,-69.9420829,"143, Rua Duarte Coelho, Tabatinga, Amazonas, Brazil, 69640-000, "
+PNSPA,-22.8241446,-42.0961936,"1447-1491, Rua Alberto Santos Dumont, Base Aeronaval, São Pedro da Aldeia, Rio de Janeiro, Brazil, 28940-000, "
+CPES,-20.317392,-40.2986375,"145, Rua Belmiro Rodrigues da Silva, Enseada do Suá, Vitória, Espírito Santo, Brazil, 29050-435, "
+AgPenedo,-10.2934713,-36.584215,"152, Avenida Duque de Caxias, Centro, Penedo, Alagoas, Brazil, 57200-000, "
+CMM,-3.1302037,-60.02714169999999,"157, Rua José Clemente, Centro, Manaus, Amazonas, Brazil, 69010-070, "
+ComFFE,-22.804636,-43.2904833,"168, Rua Silva Fernandes, Parque Duque, Duque de Caxias, Rio de Janeiro, Brazil, 25085-015, "
+BtlEngFuzNav,-22.8045941,-43.290543,"168, Rua Silva Fernandes, Parque Duque, Duque de Caxias, Rio de Janeiro, Brazil, 25085-015, "
+RPBOMI,51.4606449415749,-0.2147331302739987,170 UPPER RICHMOND ROAD - - 3º ANDAR - PUTNEY - LONDRES - - INGLATERRA - SW15 2SH
+CFRP,-25.546879,-54.591119,"170, Rua Barão do Rio Branco, Centro, Foz do Iguaçu, Paraná, Brazil, 85851-310, "
+CNBE,54.5259614,15.2551187,"170, UPPER RICHMOND ROAD - PUTNEY -LONDON - SW15 - 2SH - 170 - - PUTNEY - LONDRES - - INGLATERRA - "
+ERMBe,-1.391905,-48.435001,"1766, Avenida Augusto Montenegro, Mangueirão, Belém, Pará, Brazil, 66623, "
+AMAZUL,-23.5737825,-46.7317329,"1847, Avenida Corifeu de Azevedo Marques, Butantã, São Paulo, São Paulo, Brazil, 05581-001, "
+HNMD,-22.9139074,-43.2833747,"185, Rua César Zama, Lins de Vasconcelos, Rio de Janeiro, Rio de Janeiro, Brazil, 20725-090, "
+ESM,-22.9132419,-43.2843646,"185, Rua César Zama, Lins de Vasconcelos, Rio de Janeiro, Rio de Janeiro, Brazil, 20725-090, "
+INPG,-22.8959502,-43.1784241,"19, Avenida Rodrigues Alves, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091, "
+CFS,-2.4190798,-54.7274268,"1937, Avenida Tapajós, Aldeia, Santarém, Pará, Brazil, 68040-004, "
+CPRS,-32.0310395,-52.0837677,"198, Rua Marechal Andréia, Vila Militar, Rio Grande, Rio Grande do Sul, Brazil, 96201-260, "
+AgTramandai,-29.9783811,-50.1220603,"199, Avenida Beira Rio, Barra, Tramandaí, Rio Grande do Sul, Brazil, 95590-000, "
+PEM,-22.8994204,-43.1768824,"1º, 2º e 3º, 114, Rua Primeiro de Março, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20010-000, "
+AgCaracaraí,1.802927,-61.13267019999999,"2-622, Avenida Doutor Zany, Caracaraí, Roraima, Brazil, 69360-000, "
+CTMRJ,-22.8207105,-43.1875325,"2, Rua Ipiru, Cacuia, Rio de Janeiro, Rio de Janeiro, Brazil, 21931-090, "
+HNBe,-1.4655121,-48.503187,"200, Rua Arsenal, Cidade Velha, Belém, Pará, Brazil, 66023-110, "
+CeIMRG,-32.1404105,-52.1066019,"2000, Av. Avenida Almirante Maximiano da Fonseca, Barra Nova, Rio Grande, Rio Grande do Sul, Brazil, 96204-000, "
+CPAP,-0.0545313,-51.16171440000001,"2000, Rua Cláudio Lúcio Monteiro, Remédios, Santana, Amapá, Brazil, 68927-003, "
+PAPEM,-22.8969438,-43.1745864,"23, Rua da Ponte, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, "
+DelCFrio,-22.8761115,-42.0196659,"230, Rua Jorge Veiga, Gamboa, Cabo Frio, Rio de Janeiro, Brazil, 28922-030, "
+CPRN,-5.7787654,-35.2071619,"232, Rua Chile, Ribeira, Natal, Rio Grande do Norte, Brazil, 59012-250, "
+CIABA,-1.3707761,-48.47893,"245, Rodovia Arthur Bernardes, Pratinha (Icoaraci), Belém, Pará, Brazil, 66816-900, "
+CTMSP,-23.5646488,-46.739159,"2468, Avenida Professor Lineu Prestes, Vila Universitaria, São Paulo, São Paulo, Brazil, 05508-000, "
+CDSub,-23.5646488,-46.739159,"2468, Rua Cidade Universitária, Butantã, São Paulo, São Paulo, Brazil, 05508-000, "
+CCEMSP,-23.5530143,-46.7292004,"2493-2547, Avenida Professor Mello Moraes, Butantã, São Paulo, São Paulo, Brazil, 05508-030, "
+CPPE,-8.0600758,-34.8709605,"25, Rua de São Jorge, Recife, Recife, Pernambuco, Brazil, 50030-240, "
+IEAPM,-22.9773425,-42.022118,"253, Rua Kioto, Praia dos Anjos, Arraial do Cabo, Rio de Janeiro, Brazil, 28930-000, "
+DASM,-22.8843168,-43.3960481,"2554, Avenida Marechal Fontenele, Jardim Sulacap, Rio de Janeiro, Rio de Janeiro, Brazil, 21741, "
+AgItacoatiara,-3.146491,-58.44616019999999,"262, Avenida Parque, Centro, Itacoatiara, Amazonas, Brazil, 69100-000, "
+ComFlotAM,-3.1442066,-59.94934490000001,"2697, R. Marinheiro Greenhalgh, Vila Buriti, Manaus, Amazonas, Brazil, 69072-130, "
+AgTefe,-3.3441587,-64.7068653,"287, Rua Duque de Caxias, Tefé, Amazonas, Brazil, 69470-000, "
+DelFurnas,-20.6794319,-46.33459089999999,"288, Rua Lavras, Furnas, São José da Barra, Minas Gerais, Brazil, 37945-000, "
+BHMN,-22.8836089,-43.1293569,"289-821, Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24040-000, "
+PNN,-22.8840502,-43.1298127,"289, Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24040-000, "
+EAMCE,-3.7177218,-38.5418448,"30, Avenida Filomeno Gomes, Jacarecanga, Fortaleza, Ceará, Brazil, 60010-280, "
+EAMSC,-27.5781292,-48.5903638,"3028, Avenida Marinheiro Max Schramm, Jardim Atlântico, Florianópolis, Santa Catarina, Brazil, 88095-900, "
+CMOpM,-22.8907284,-43.2426202,"315, Avenida Dom Hélder Câmara, Manguinhos, Rio de Janeiro, Rio de Janeiro, Brazil, 20911-291, "
+LFM,-22.8906606,-43.242605,"315, Avenida Dom Hélder Câmara, Manguinhos, Rio de Janeiro, Rio de Janeiro, Brazil, 20911-291, "
+3°BtlOpRib,-19.0089733,-57.5984886,"333, Rua Antônio João Assad, Setor 7, Ladário, Mato Grosso do Sul, Brazil, 79370-000, "
+PNRG,-32.0327629,-52.0842296,"353, Rua Almirante Garnier, Vila Militar, Rio Grande, Rio Grande do Sul, Brazil, 96201-230, "
+CPPB,-7.116822900000001,-34.8880763,"372, Rua Barão do Triunfo, Varadouro, João Pessoa, Paraíba, Brazil, 58010-400, "
+AgSinop,-11.8360972,-55.4981535,"3782, Rua das Orquideas, Parque das Araras, Sinop, Mato Grosso, Brazil, 78550-404, "
+CFPA,-30.0323041,-51.2371317,"386, Rua dos Andradas, Centro Histórico, Porto Alegre, Rio Grande do Sul, Brazil, 90020-000, "
+DepSIMRJ,-22.8973334,-43.2477864,"390, Rua Doutor Garnier, Rocha, Rio de Janeiro, Rio de Janeiro, Brazil, 20975-000, "
+CFPV,-8.764834,-63.906814,"395, Rua Henrique Dias, Centro, Porto Velho, Rondônia, Brazil, 78900-130, "
+PNMa,-3.1334903,-59.9459514,"4, BR-319, Vila Buriti, Manaus, Amazonas, Brazil, 69075-840, "
+DPC,-22.8995993,-43.1768589,"4, Rua Teófilo Otoni, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20090-070, "
+CPMA,-2.5279476,-44.3073232,"406, Avenida Senador Vitorino Freire, Centro, São Luís, Maranhão, Brazil, 65010-655, "
+AgImperatriz,-5.5277574,-47.4869133,"41, Rua Coriolano Milhomem, Nova Imperatriz, Imperatriz, Maranhão, Brazil, 65907-170, "
+AgGMirim,-10.7900413,-65.34398209999999,"418, Avenida 15 de Novembro, Setor 01, Guajará-Mirim, Rondônia, Brazil, 78957-000, "
+CPAL,-9.6698958,-35.7274217,"44, Rua do Uruguai, Jaraguá, Maceió, Alagoas, Brazil, 57022-120, "
+CPSC,-27.5955556,-48.5683763,"440, Rua Quatorze de Julho, Estreito, Florianópolis, Santa Catarina, Brazil, 88075-010, "
+BtlLogFuzNav,-22.806278,-43.2911071,"4458, Avenida Trevo das Missões, Cordovil, Rio de Janeiro, Rio de Janeiro, Brazil, "
+PNCG,-22.8655322,-43.5837801,"44878, Avenida Brasil, Campo Grande, Rio de Janeiro, Rio de Janeiro, Brazil, 23078-001, "
+CIAMPA,-22.864129,-43.5808828,"44878, Avenida Brasil, Campo Grande, Rio de Janeiro, Rio de Janeiro, Brazil, 23078-001, "
+EGN,-22.9547218,-43.1675726,"480, Avenida Pasteur, Urca, Rio de Janeiro, Rio de Janeiro, Brazil, 22290-240, "
+CFGO,-16.6770627,-49.2560961,"49, Rua 2, Setor Central, Goiânia, Goiás, Brazil, 74013-020, "
+CPCE,-3.7194762,-38.475988,"4917, Avenida Vicente de Castro, Mucuripe, Fortaleza, Ceará, Brazil, 60180-410, "
+CeIMMa,-3.143169,-59.9481689,"520-598, Estrada de Acesso A Base Naval, Vila Buriti, Manaus, Amazonas, Brazil, 69072, "
+CPPI,-2.8981425,-41.7727715,"530, Avenida Nações Unidas, Nossa Senhora do Carmo, Parnaíba, Piauí, Brazil, 64200-220, "
+PNNSG,-22.9234184,-43.223553,"54, Rua Conde de Bonfim, Tijuca, Rio de Janeiro, Rio de Janeiro, Brazil, 20520-053, "
+DelSSebastiao,-23.8061977,-45.4005829,"544, Avenida Doutor Altino Arantes, Centro, São Sebastião, São Paulo, Brazil, 11600-000, "
+CPAOR,-1.4479153,-48.4971975,"575, Rua Gaspar Viana, Reduto, Belém, Pará, Brazil, 66053-090, "
+CFJ,-9.4100275,-40.5110278,"606, Rua José Petitinga, Santo Antonio, Juazeiro, Bahia, Brazil, 48903-010, "
+Com1°DN,-22.8966822,-43.1800199,"65, Praça Mauá, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20081-240, "
+CDU-1°DN,-22.8966822,-43.1800199,"65, Praça Mauá, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20081-240, "
+ERMCN,-22.710987,-42.0104522,"6618-6898, Rodovia Amaral Peixoto, Vila Colonial, Cabo Frio, Rio de Janeiro, Brazil, "
+DepSMRJ,-22.8412293,-43.3026527,"682, Rua Tomás Lopes, Penha Circular, Rio de Janeiro, Rio de Janeiro, Brazil, 21221-210, "
+Com5°DN,-32.0310398,-52.08279109999999,"70, Rua Marechal Andréia, Vila Militar, Rio Grande, Rio Grande do Sul, Brazil, 96201, "
+CPPR,-25.517052,-48.5018025,"707, Rua Benjamin Constant, Centro Histórico, Paranaguá, Paraná, Brazil, 83203-190, "
+DelLaguna,-28.4853108,-48.78284790000001,"72, Avenida Colombo Machado Sálless, Centro, Laguna, Santa Catarina, Brazil, 88790-000, "
+CPSE,-10.9205884,-37.0462136,"752, Avenida Ivo do Prado, São José, Aracaju, Sergipe, Brazil, 49015-070, "
+DelPirapora,-17.3496115,-44.9520061,"758, Avenida São Francisco, Centro, Pirapora, Minas Gerais, Brazil, 39270-050, "
+CM,-23.6678173,-46.6947269,"760, Avenida Engenheiro Alberto de Zagottis, Jardim Anhanguera, São Paulo, São Paulo, Brazil, 04675-085, "
+CFTP,-22.4996756,-48.5538593,"804, Avenida Pedro Ometto, Centro, Barra Bonita, São Paulo, Brazil, 17340-250, "
+CFPN,-18.9979962,-57.6509835,"806, Rua Delamare, Centro, Corumbá, Mato Grosso do Sul, Brazil, 79301-020, "
+ComForAerNav,-22.8248371,-42.0924915,"829-911, Rua Comandante Ituriel, Base Aeronaval, São Pedro da Aldeia, Rio de Janeiro, Brazil, 28940-000, "
+CFMT,-15.5763272,-56.0590022,"850, Avenida Oátomo Canavarros, Morada do Ouro, Cuiabá, Mato Grosso, Brazil, 78050-568, "
+CIAGA,-22.8370496,-43.2556682,"9020, Avenida Brasil, Olaria, Rio de Janeiro, Rio de Janeiro, Brazil, 21030-001, "
+AgOiapoque,3.8492121,-51.8316159,"930-1012, Rua Joaquim Caetano da Silva, Oiapoque, Oiapoque, Amapá, Brazil, 68980-000, "
+AgAracati,-4.5668846,-37.7734138,"955, Avenida Coronel Alexanzito, Centro, Aracati, Ceará, Brazil, 62800-000, "
+NVAraçatuba,-21.206685,-50.438747,"Araçatuba, Araçatuba, State of São Paulo, Brazil, "
+NPoAlteMaximiano,-22.896894555867775,-43.174479800000015,ARSENAL DE MARINHA DO RIO DE JANEIRO - S/N° - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+DepMSMRJ,-22.9068467,-43.1728965,AV . BRASIL - S/N° - - OLARIA - RIO DE JANEIRO - RJ - BRASIL – 21012-350
+AvHoFluCaravelas,-19.003885546238877,-57.595807871168645,AV 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
+BtlDefNBQR,-22.845648134844843,-43.10150362510014,AV PAIVA - S/N - ILHA DAS FLORES - NEVES - SÃO GONÇALO - RJ - BRASIL - 24426-148
+Com6°DN,-19.004615650624423,-57.59797841539848,"Av. 14 de Março - St. 1, Ladário - MS, 79370-000"
+NPaBenevente,-32.14018787736598,-52.10963199239183,AV. ALMIRANTE MAXIMIANO DA SILVA FONSECA - 2000 - KM 9 - 4º SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL – 96204-040
+GptFNRG,-32.13963513766392,-52.11148742894873,AV. ALMIRANTE MAXIMIANO FONSECA - - KM 9 - CAIXA POSTAL 209 - 4ª SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL – 96204-040
+RbAMTritao,-32.14018787736598,-52.10963199239183,AV. ALMIRANTE MAXIMIANO FONSECA - 2000 - - 4ª SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL - 96204-040
+NPaBabitonga,-32.14018787736598,-52.10963199239183,AV. ALMIRANTE MAXIMIANO FONSECA - 2000 - - 4ª SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL – 96200-040
+NApOcMearim,-32.14018787736598,-52.10963199239183,AV. ALMIRANTE MAXIMIANO FONSECA - 2000 - - 4ª SEÇÃO DA BARRA - RIO GRANDE - RS - BRASIL – 96204-040
+CDU-BAMRJ,-22.8341648,-43.2613409,AV. BRASIL - 10.500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL – 21012-350
+CDAM–Centro,-22.83185430659108,-43.25944495923486,AV. BRASIL - 10500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL - 21012-350
+CDM,-22.83211052018131,-43.26457658543398,AV. BRASIL - 10500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL - 21012-350
+BAMRJ,-22.8341648,-43.2613409,AV. BRASIL - 10500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL – 21012-350
+CDefNBQR-MB,-22.8098864,-43.2956007,AV. BRASIL - 13476 - - PARADA DE LUCAS - RIO DE JANEIRO - RJ - BRASIL – 21010-076
+BtlOpEspFuzNav,-22.863809058036757,-43.58007195997083,AV. BRASIL - 44878 - KM 45 - GUANDU DO SAPÊ - CAMPO GRANDE - RIO DE JANEIRO - RJ - BRASIL - 23078-000
+CeIMPL,-22.8184513,-43.3030143,AV. BRASIL - Nº13.476 - - PARADA DE LUCAS - RIO DE JANEIRO - RJ - BRASIL – 21010-076
+ENRG,-32.033083318417376,-52.07933866944614,AV. HONÓRIO BICALHO - S/N° - ANTIGO PORTÃO 9 - CENTRO - RIO GRANDE - RS - BRASIL - 96201-230
+NHiBComteVarella,-32.033083318417376,-52.07933866944614,AV. HONÓRIO BICALHO - S/N° - ILHA DO TERRAPLENO DO LESTE - PORTAO 12 - CENTRO - RIO GRANDE - RS - BRASIL - 96200-000
+SSN-5,-32.033083318417376,-52.07933866944614,AV. HONÓRIO BICALHO - S/N° - ILHA DO TERRAPLENO DO LESTE - PORTAO 12 - CENTRO - RIO GRANDE - RS - BRASIL - 96201-020
+EsqdHU-51,-32.03324106806505,-52.07217637321028,AV. HONÓRIO BICALHO - S/N° - PORTÃO 12 - ILHA DO TERRAPLENO - RIO GRANDE - RS - BRASIL - 96209-030 
+CiaPol,-22.84572820639793,-43.10141458979176,AV. PAIVA - S/N° - - NEVES - SÃO GONÇALO - RJ - BRASIL - 24611-970
+DDNM,-23.564454794298967,-46.73916625944967,AV. PROFESSOR LINEU PRESTES - 2468 - CIDADE UNIVERSITÁRIA - BUTANTÃ - SÃO PAULO - SP - BRASIL - 05508-000
+CeITMSP,-23.4720858,-46.6234219,AV. PROFESSOR LINEU PRESTES - 2468 - CIDADE UNIVERSITÁRIA - BUTANTÃ - SÃO PAULO - SP - BRASIL – 05508-000
+AgBAcre,-8.75343719103609,-67.398813755963,AV. XV DE NOVEMBRO - 2221 - - CENTRO - BOCA DO ACRE - AM - BRASIL – 69850-000
+DepFMRJ,-22.83268096424869,-43.25866028081595,AV.BRASIL - 10500 - - OLARIA - RIO DE JANEIRO - RJ - BRASIL – 21012-350
+NTrFluParaguassu,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
+NPaPoti,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
+NApLogFluPotengi,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
+NPaPiraja,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
+NAsHTenMaximiano,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
+NTrFluAlteLeverger,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
+EsqdHU-61,-19.004473395244723,-57.59449122657987,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL - 79370-000
+NPaPenedo,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL – 79370-000
+GrEOpRibMT,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL – 79370-000
+CeIMLa,-19.003151086737283,-57.59675781443346,AVENIDA 14 DE MARÇO - S/N° - - CENTRO - LADÁRIO - MS - BRASIL – 79370-000
+NPaPiratini,-19.001965559797743,-57.59566470832185,AVENIDA 14 DE MARÇO - S/N° - - LADÁRIO - LADÁRIO - MS - BRASIL – 79370-000
+CHN-6,-19.0040803,-57.5957924,"Avenida 14 de Março, Setor 1, Ladário, Mato Grosso do Sul, Brazil, 79370-000, "
+AgBJLapa,-13.2556695,-43.4215849,"Avenida Almirante Beirute, Bom Jesus da Lapa, Bom Jesus da Lapa, Bahia, Brazil, 47600-000, "
+VOJBotas,-22.912565248430443,-43.1592825309096,AVENIDA ALMIRANTE SYLVIO DE NORONHA - S/N - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20021-010
+NPaGuajara,-23.95797337746768,-46.3069950500894,AVENIDA CIDADE DE SANTOS - S/N° - CAIS DA MARINHA - MACUCO - SANTOS - SP - BRASIL – 11015-050
+NpaGuapore,-23.95797337746768,-46.3069950500894,AVENIDA CIDADE DE SANTOS - S/N° - CAIS DA MARINHA - MACUCO - SANTOS - SP - BRASIL – 11015-050
+ComGptPatNavSSE,-23.95797337746768,-46.3069950500894,AVENIDA ESMERALDO ST CAMPOS FL - S/N - CAIS DA MARINHA CANAL4-EST - CAIS DA MARINHA CANAL4-EST - SANTOS - SP - BRASIL – 11015-205
+ComTrRef,-22.8456847,-43.09959,"Avenida Paiva, Porto Velho, São Gonçalo, Rio de Janeiro, Brazil, 24426-148, "
+UMEM,-22.8437526,-43.0996185,"Avenida Paiva, Porto Velho, São Gonçalo, Rio de Janeiro, Brazil, 24426-148, "
+BAeNSPA,-22.820833395026757,-42.09461228464308,"Base Aeronaval, São Pedro da Aldeia - RJ, 28940-000"
+NVAratu,-12.79665328900707,-38.490481020008566,BASE NAVAL DE ARATU - - SÃO TOMÉ DE PARIPE - PARIPE - SALVADOR - BA - BRASIL - 40810-310
+CVCaboclo,-12.79665328900707,-38.490481020008566,BASE NAVAL DE ARATU - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
+NHiBTenBoanerges,-12.79665328900707,-38.490481020008566,BASE NAVAL DE ARATU - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
+NApOcPurus,-22.867691941710937,-43.13694096310479,BASE NAVAL DO RIO DE JANEIRO - - ILHA DE MOCANGUÊ - - NITEROÍ - RJ - BRASIL - 
+CIAB,-16.016402892136192,-47.9739263731154,"BR 040 - - KM 4,5 - SANTA MARIA - BRASÍLIA - DF - BRASIL - 72501-100 "
+ERMN,-5.884833805295115,-35.27926198856893,BR 304 - KM 04 CAIXA POSTAL 095 - S/N - - ENCANTO VERDE - PARNAMIRIM - RN - BRASIL – 59150-000
+NAsHOCruz,-3.144032849213364,-59.94935883770639,"BR 319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
+NAsHDoutorMontenegro,-3.144032849213364,-59.94935883770639,"BR 319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
+NAsHSMeirelles,-3.144032849213364,-59.94935883770639,"BR 319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
+NAsHCChagas,-3.144032849213364,-59.94935883770639,"BR 319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
+NPaFluPTeixeira,-3.144032849213364,-59.94935883770639,"BR 319 - - KM 4,5 - VILA BURITI - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
+NPaFluRondonia,-3.144032849213364,-59.94935883770639,"BR 319 - - KM 4,5 - VILA BURITI - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
+NPaFluAmapa,-3.144032849213364,-59.94935883770639,"BR 319 - - KM 4,5 - VILA BURITI - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
+NPaFluRoraima,-3.144032849213364,-59.94935883770639,"BR 319 - S/N° - KM 4,5 - VILA BURITI - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
+EsqdHU-91,-3.143577834718095,-59.94824490356087,"BR-319 - - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL - 69075-510"
+NPaFluRTavares,-3.144032849213364,-59.94935883770639,"BR-319 - S/N° - KM 4,5 - DISTRITO INDUSTRIAL - MANAUS - AM - BRASIL – 69075-510"
+DSM,-22.8962085,-43.1785956,"Brazil, Centro, Rio de Janeiro, Rio de Janeiro, 20091, "
+ETAM,-22.8949042,-43.1740012,"Brazil, Centro, Rio de Janeiro, State of Rio de Janeiro, 20091-000, "
+CNBW,38.9071923,-77.0368707,BRAZILIAN NAVAL COMMISSION - 5130 - MACARTHUR BOULEVARD N.W. - - WASHINGTON - - USA – 200163316
+CPSP,-23.9582063,-46.307054,"Cais da Marinha, s/n, Avenida Engenheiro Ismael Coelho De Souza, Macuco, Santos, São Paulo, Brazil, 11015-315, "
+CCIMAR,-22.896841,-43.174986,"Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
+CLogMat,-22.9070828,-43.18191480000001,"Centro, Rio de Janeiro, State of Rio de Janeiro, Brazil, "
+SIM,-22.896983,-43.1773907,"Centro, Rio de Janeiro, State of Rio de Janeiro, Brazil, 20091-000, "
+DGN,-22.8965908,-43.17732059999999,"Centro, Rio de Janeiro, State of Rio de Janeiro, Brazil, 20091, "
+CCSM,-22.8956521,-43.1702573,"Edifício 8, Rua da Pedreira, Ilha das Cobras, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
+Com7°DN,-15.7941193,-47.8707141,"Eixo Monumental, Brasília, Brasília, Distrito Federal, Brazil, 70297-400, "
+SGM,-15.7887865,-47.89335699999999,"Eixo Monumental, Brasília, Brasília, Distrito Federal, Brazil, 70740-610, "
+SSN-2,-12.79678731529524,-38.49049395703705,ENTRADA DA BASE NAVAL DE ARATU - S/N° - BNA - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
+CFB,-15.793951789630864,-47.87063350195475,"ESPLANADA DOS MINISTÉRIOS - - BL. ""N"", ANEXO ""A"" - TÉRREO - BRASÍLIA - BRASÍLIA - DF - BRASIL – 70055-900"
+EMA,-15.79545827971751,-47.87132425787112,"ESPLANADA DOS MINISTÉRIOS - - BLOCO N , 5° ANDAR - PLANO PILOTO - BRASÍLIA - DF - BRASIL - 70055-900"
+GCM,-15.79545827971751,-47.87132425787112,ESPLANADA DOS MINISTÉRIOS - S/N - BLOCO N - 2° E 3° ANDARES - ZONA CIVICO-ADMINISTRATIVA - BRASÍLIA - DF - BRASIL - 70055-900
+CIM,-15.79545827971751,-47.87132425787112,"ESPLANADA DOS MINISTÉRIOS - S/N - BLOCO N, EDIFÍCIO ANEXO, 4° ANDAR - ZONA CENTRAL - BRASÍLIA - DF - BRASIL - 70055-900"
+SECIRM,-15.7938676,-47.8710325,"Esplanada dos Ministérios, Brasília, Brasília, Distrito Federal, Brazil, 70297-400, "
+DPCvM,-15.7938931,-47.870663,"Esplanada dos Ministérios, Brasília, Brasília, Distrito Federal, Brazil, 70297-400, "
+BNA,-12.796461365420448,-38.490488391916365,EST. DA BASE NAVAL - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
+ComGptPatNavL,-12.795180413241653,-38.4885887678478,ESTRADA DA BASE NAVAL - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
+ComForMinVar,-12.797904607142776,-38.49286212898382,ESTRADA DA BASE NAVAL DE ARATU - S/N° - - SÃO TOMÉ DE PARIPE - SALVADOR - BA - BRASIL - 40800-310
+ENRN,-3.1419455,-59.9474454,"Estrada de Acesso A Base Naval, Manaus, Amazonas, Brazil, "
+BtlBldFuzNav,-22.78203556443318,-43.159702516783504,ESTRADA DO QUILOMBO - S/N° - BANANAL - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL – 21911-010
+BtlArtFuzNav,-22.7838279,-43.1692796,"Estrada do Quilombo, Freguesia (Ilha do Governador), Rio de Janeiro, Rio de Janeiro, Brazil, 21911, "
+BtlDefNBQR-ARAMAR,-23.4013033,-47.5901407,"Estrada Municipal Iperó, Bacaetava, Iperó, São Paulo, Brazil, 18560-000, "
+ComForS,-22.917163516165456,-43.85079708487992,ESTRADA PREFEITO WILSON PEDRO FRANCISCO - S/N° - - ILHA DA MADEIRA - ITAGUAÍ - RJ - BRASIL - 23826-640
+COFAMAR,-22.930893,-43.175283,"Flamengo, Rio de Janeiro, Rio de Janeiro, Brazil, 22210-060, "
+CIAAN,-22.8154804,-42.0899784,"Fluminense, São Pedro da Aldeia, Rio de Janeiro, Brazil, 28944-054, "
+CPesFN,-22.8960361,-43.1706815,FORTALEZA DE SÃO JOSÉ - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000
+CMatFN,-22.89611538459736,-43.17048821629093,FORTALEZA SÃO JOSÉ - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+UISM,-22.9235644,-43.3416865,"Freguesia, Rio de Janeiro, State of Rio de Janeiro, Brazil, "
+NPaGravatai,-29.93988689999999,-50.99475289999999,"Gravataí district, Gravataí, State of Rio Grande do Sul, Brazil, "
+NPaGuaratuba,-25.8843865,-48.5762979,"Guaratuba, Guaratuba, Guaratuba, State of Paraná, Brazil, 83280-000, "
+BSIM,-22.9167327,-43.840969,"Ilha da Madeira, Itaguaí, Rio de Janeiro, Brazil, 23826-640, "
+NAMAtlantico,-22.8949739093137,-43.17160747186343,ILHA DAS COBRAS - S/N - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+NApOcARongel,-22.89655200802037,-43.169813495585885,ILHA DAS COBRAS - S/N° - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+ComGptPatNavSE,-22.89785948782585,-43.17321510606117,ILHA DAS COBRAS - S/N° - ED. 22 DO AMRJ - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+DAdM,-22.8966616738843,-43.17504048289729,"ILHA DAS COBRAS - S/N° - EDIFÍCIO ALMIRANTE GASTÃO MOTTA, 2° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000"
+DFM,-22.8966616738843,-43.17504048289729,"ILHA DAS COBRAS - S/N° - EDIFÍCIO ALMIRANTE GASTÃO MOTTA, 3° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
+DGOM,-22.8966616738843,-43.17504048289729,"ILHA DAS COBRAS - S/N° - EDIFÍCIO ALMIRANTE GASTÃO MOTTA, 3° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
+DAbM,-22.8966616738843,-43.17504048289729,"ILHA DAS COBRAS - S/N° - EDIFÍCIO ALMIRANTE GASTÃO MOTTA, 4° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
+CPN,-22.897650174471394,-43.17144964156064,ILHA DAS COBRAS - S/N° - EDIFÍCIO N° 16 - ARSENAL DE MARINHA DO RIO DE JANEIRO - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+DIM,-22.896655136145352,-43.17162478816621,ILHA DAS COBRAS - S/Nº - EDIFÍCIO 11 - 1º ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+EMGEPRON,-22.89772766671321,-43.17293410369673,"Ilha das Cobras, Guanabara - Edifício Almirante Raphael de Azevedo Branco ,Baia de, S/N, Rio de Janeiro - RJ, 20180-001"
+CASNAV,-22.8972805,-43.1740245,"Ilha das Cobras, Rio de Janeiro, Rio de Janeiro, Brazil, "
+BNIC,-22.895805,-43.171689,"Ilha das Cobras, State of Rio de Janeiro, Brazil, "
+AvApCoAlteHess,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+ComForSup,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+CvJNoronha,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+ComEsqdAp-1,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+STimbira,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+ComDiv-1,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+ComDiv-2,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+FDefensora,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-900
+FLiberal,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-900
+ComEsqdE-1,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24049-900
+CASOP,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - MOCANGUÊ - NITERÓI - RJ - BRASIL - 24040-300
+CvBarroso,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - PONTA D'AREIA - NITERÓI - RJ - BRASIL - 24040-300
+NDCCAlteSaboia,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - - PONTA D'AREIA - NITERÓI - RJ - BRASIL - 24040-300 
+NTAlteGMotta,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/N° - BASE NAVAL DO RIO DE JANEIRO - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+FUniao,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/Nº - - CENTRO - NITERÓI - RJ - BRASIL - 22040-300
+UMEsq,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/Nº - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+CDDGN,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/Nº - - CENTRO - NITERÓI - RJ - BRASIL - 24040-400
+EDCGMarambaia,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ - S/Nº - - NITERÓI - RIO DE JANEIRO - RJ - BRASIL - 24049-900
+EDCGCamboriu,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ GRANDE - S/N - PONTA D'AREIA - - NITEROÍ - RJ - BRASIL - 24049-900
+STupi,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ GRANDE - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+STapajo,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ GRANDE - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+NDMBahia,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ GRANDE - S/Nº - BASE NAVAL DO RIO DE JANEIRO - PONTA D'AREIA - RIO DE JANEIRO - RJ - BRASIL – 24040-300
+NSSGuillobel,-22.86976703250476,-43.13543274231505,"Ilha de Mocanguê Grande s/n - Ponta D'areia, Niterói - RJ"
+BACS,-22.87053707391473,-43.13503273145814,"Ilha de Mocanguê Grande s/n - Ponta D'areia, Niterói - RJ"
+EDCGTambau,-22.86976703250476,-43.13543274231505,"ILHA DE MOCANGUÊ GRANDE, S/N - S/N° - PONTA D'AREIA - - NITEROÍ - RJ - BRASIL - 24049-900"
+ComEsqdE-2,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ PEQUENO - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+NEBrasil,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ PEQUENO - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+NVeCisneBranco,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUÊ PEQUENO - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 24040-300
+CGAEM,-22.86976703250476,-43.13543274231505,ILHA DE MOCANGUE PEQUENO - S/N° - - NITERÓI - NITERÓI - RJ - BRASIL - 24040-300
+ComemCh,-22.86976703250476,-43.13543274231505,"Ilha de Mocanguê, Niterói - RJ"
+FConstituicao,-22.86976703250476,-43.13543274231505,ILHA DO MOCANGUÊ - S/N° - - CENTRO - NITERÓI - RJ - BRASIL - 22040-300
+NDCCMMaia,-22.86976703250476,-43.13543274231505,ILHA DO MOCÂNGUE - S/N° - PONTA DA AREIA - CENTRO - NITERÓI - RJ - BRASIL - 24049 -900
+ComGptPatNavS,-32.1403216,-52.10961409999999,"Industrial Tamandaré, Rio Grande, Rio Grande do Sul, Brazil, 96215-840, "
+CINA,-23.3983953,-47.5984034,"Iperó, Bacaetava, São Paulo, Brazil, 18560-000, "
+CeIMBe,-1.3950167,-48.4919737,"Km 4, S/N, Rodovia Arthur Bernardes, Val de Caes, Belém, Pará, Brazil, 66115-300, "
+ComFlotMT,-19.002302,-57.5957002,"Ladário, Setor 8, Mato Grosso do Sul, Brazil, 79370-000, "
+EDCGGuarapari,-22.86976703250476,-43.13543274231505,LHA DE MOCANGUÊ GRANDE - S/N° - PONTA D'AREIA - - NITEROÍ - RJ - BRASIL - 24049-900
+DelPSeguro,-16.4520921,-39.0660524,"N° 195, Rua São Pedro, Centro, Porto Seguro, Bahia, Brazil, 45810-000, "
+AgEirunepe,-6.666947299999999,-69.865921,"n°113, Rua Felipe Cunha, Centro, Eirunepé, Amazonas, Brazil, 69880-000, "
+GRUMEC,-22.8751255,-43.13582,"Niterói, Rio de Janeiro, Brazil, "
+CIAMA,-22.8739844,-43.1332899,"Niterói, Rio de Janeiro, Brazil, 24040-300, "
+CeIMNi,-22.8807073,-43.1013526,"Niterói, State of Rio de Janeiro, Brazil, "
+GrEOpRibN,-2.0953182,-58.3716902,"North Region, Brazil, "
+STikuna,-22.86976703250476,-43.13543274231505,OTR ILHA DE MOCANGUE GRANDE - S/N° - - PONTA D'AREIA - NITEROI - RJ - BRASIL - 24.049-900 
+AgParaty,-23.2197106,-44.7167452,"Paraty, Paraty, State of Rio de Janeiro, Brazil, "
+MParnaiba,-2.9096093,-41.7537178,"Parnaíba, Parnaíba, State of Piauí, Brazil, "
+NPaGurupa,-22.89899542794569,-43.17014141987168,PCA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000
+NPaGurupi,-22.89899542794569,-43.17014141987168,PCA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000
+SSPM,-22.89936333180381,-43.17672761539194,PÇA. BARÃO DE LADÁRIO - S/N° - COMPLEXO DO 1° DN - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+GptFNRJ,-22.8273076,-43.26540199999999,"Penha, Rio de Janeiro, State of Rio de Janeiro, Brazil, "
+CMEM,-22.8713889,-43.1342531,"Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24040-300, "
+DHN,-22.8830396,-43.1339724,"Ponta Dareia, Niterói, Rio de Janeiro, Brazil, "
+CMASM,-22.8357598,-43.1089216,"Porto Velho, São Gonçalo, Rio de Janeiro, Brazil, "
+NPaOcAPA,-22.86488098159224,-43.13898449010604,PRAÇA BARÃO DE LADÁRIO - 118 - - ILHA DAS COBRAS - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+CoNavOpEsp,-22.897822100433665,-43.17698571533288,"PRAÇA BARÃO DE LADÁRIO - S/N - EDIFÍCIO ALMIRANTE TAMANDARÉ, 7º ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
+COMPAAz,-22.897822100433665,-43.17698571533288,PRAÇA BARÃO DE LADÁRIO - S/N/ - ED. ALTE TAMANDARE - 6° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+OCM,-22.896304610269507,-43.17950423145577,PRAÇA BARÃO DE LADÁRIO - S/N° - - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 21910-000
+BtlNav,-22.89640157328757,-43.17140357468155,PRAÇA BARÃO DE LADÁRIO - S/N° - - ILHA DAS COBRAS - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+NPaOcAmazonas,-22.86488098159224,-43.13898449010604,PRAÇA BARÃO DE LADÁRIO - S/N° - - ILHA DAS COBRAS - RIO DE JANEIRO - RJ - BRASIL – 20091-000
+SASM,-22.896118266112744,-43.17909902436166,PRAÇA BARÃO DE LADÁRIO - S/N° - COMPLEXO DO 1° DN - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+DGPM,-22.897822100433665,-43.17698571533288,"PRAÇA BARÃO DE LADÁRIO - S/N° - ED ALMIRANTE TAMANDARÉ, 7° ANDAR - PRAÇA MAUÁ- CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
+DPMM,-22.89795774240472,-43.177006131848685,"PRACA BARAO DE LADARIO - S/N° - ED. ALTE TAMANDARE, 4° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
+DEnsM,-22.89795774240472,-43.177006131848685,"PRAÇA BARÃO DE LADÁRIO - S/N° - ED. ALTE. TAMANDARÉ, 5° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
+FIndependencia,-22.8949739093137,-43.17160747186343,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+FRademaker,-22.8949739093137,-43.17160747186343,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+AvInGMJansen,-22.89955614105913,-43.168445906308754,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+AvInGMBrito,-22.89955614105913,-43.168445906308754,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+AvInAspNasc,-22.89955614105913,-43.168445906308754,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+CiaPolBtlNav,-22.8962211,-43.1722296,PRAÇA BARÃO DE LADÁRIO - S/N° - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL – 20091-000
+CPO,-22.897822100433665,-43.17698571533288,PRAÇA BARÃO DE LADARIO - S/Nº - ED. ALTE TAMANDARE - 3° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+STamoio,-22.8949739093137,-43.17160747186343,PRAÇA BARÃO DE LADÁRIO - S/Nº - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000
+AgNSNQ,-22.897498393209688,-43.17403925904834,"PRAÇA BARÃO DE LADÁRIO S/N, RUA DA PONTE - S/Nº - EDIFÍCIO 23 DO AMRJ 2º ANDAR - ILHA DAS COBRAS - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20091-000"
+ComOpNav,-22.8979701,-43.1770284,"Praça Barão de Ladário, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
+SVPM,-22.897953,-43.1768783,"Praça Barão de Ladário, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
+DelGuaira,-24.06643120795385,-54.23366587678429,PRAÇA PRESIDENTE DUTRA - 88 - - VILA VELHA - GUAÍRA - PR - BRASIL – 85980-000
+DepCMRJ,-22.822098984315247,-43.189204475071904,PRAIA DA BICA - 1361 - JARDIM GUANABARA - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL – 21931-076
+CHN-9,-3.1437210619474234,-59.94963621115756,R RIO ITAQUAI - S/N° - - VILA BURITI - MANAUS - AM - BRASIL - 69.072-080 
+NHoFluRioBranco,-3.1468588529365635,-59.94914154750269,R RIO ITAQUAI - S/N° - - VILA BURITI - MANAUS - AM - BRASIL - 69.072-080 
+DGDNTM,-22.89711905152199,-43.17421753215755,"R. da Ponte - Centro, Rio de Janeiro - RJ"
+Com8°DN,-23.593572417184184,-46.64697160182957,"R. Estado de Israel, 776 - Vila Clementino, São Paulo - SP, 04022-002"
+CMS,-22.8959703,-43.1679751,"Rio de Janeiro, Centro, Rio de Janeiro, Brazil, "
+PM,-22.8959731,-43.17288370000001,"Rio de Janeiro, Centro, Rio de Janeiro, Brazil, 20091-000, "
+CPMM,-22.8958597,-43.1731206,"Rio de Janeiro, Centro, Rio de Janeiro, Brazil, 20091-000, "
+CGCFN,-22.8962427,-43.1716226,"Rio de Janeiro, Centro, Rio de Janeiro, Brazil, 21911-000, "
+BNRJ,-22.9068467,-43.1728965,"Rio de Janeiro, Rio de Janeiro, State of Rio de Janeiro, Brazil, "
+EsqdHU-41,-1.3813482013979412,-48.48399758651885,ROD ARTHUR BERNARDES - S/N - - VAL-DE-CAES - BELEM - PA - BRASIL - 66.115-000
+NApOcIguatemi,-1.3948889988929083,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N - BASE NAVAL DE VAL-DE-CÃES - - BELÉM - PA - BRASIL - 66115-000
+AvHoFluRioXingu,-1.3948889988929083,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - - VAL DE CÃES - BELÉM - PA - BRASIL – 66115-300
+NPaBocaina,-1.3948889988929083,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66110-300
+NPaGuanabara,-1.3948889988929083,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66110-300
+NAPara,-1.3948889988929083,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66110-300
+ComGptPatNavN,-1.3981306954168435,-48.4911753432022,RODOVIA ARTHUR BERNARDES - S/N° - BASE NAVAL DE VAL-DE-CAES - BNVC - VAL-DE-CAES - BELÉM - PA - BRASIL - 66110-300
+NPaPampeiro,-1.3948889988929083,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - BASE NAVAL DE VAL-DE-CAES - VAL-DE-CAES - BELÉM - PA - BRASIL - 66115-000
+NPaBracui,-1.3948889988929083,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - BASE NAVAL DE VAL-DE-CÃES - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66115-030
+NPaGuaruja,-1.3948889988929083,-48.493578412417925,RODOVIA ARTHUR BERNARDES - S/N° - BASE NAVAL DE VAL-DE-CÃES - VAL-DE-CÃES - BELÉM - PA - BRASIL – 66110-330
+NHoGSampaio,-1.3948889988929083,-48.493578412417925,RODOVIA ARTUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66115-000
+NHiBTenCastelo,-1.3948889988929083,-48.493578412417925,RODOVIA ARTUR BERNARDES - S/N° - - VAL-DE-CÃES - BELÉM - PA - BRASIL - 66115-810
+AvHoFluRioTocantins,-1.3948889988929083,-48.493578412417925,"RODOVIA ARTUR BERNARDES, S/Nº - - S/N° - VAL DE CÃES - VAL DE CÃES - BELÉM - PA - BRASIL – 66.110-300"
+ERMB,-15.996560123066622,-47.90305387018488,"RODOVIA DF-001 - - KM 45, ÁREA ALFA - SANTA MARIA - BRASÍLIA - DF - BRASIL – 70051-970"
+CmdoTrDbq,-22.80451897899867,-43.290438004826,RODOVIA WASHINGTON LUIS - S/N° - KM 124 - PARQUE DUQUE DE CAXIAS - DUQUE DE CAXIAS - RJ - BRASIL - 25085-000
+NPaMacae,-22.89899542794569,-43.17014141987168,RUA 1° DE MARÇO - 118 - BARAO DE LADARIO 11 E 12 - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000
+CTIM,-22.899156869369097,-43.17698377300568,"RUA 1° DE MARÇO - 118 - EDIFÍCIO BARÃO DE LADÁRIO, SOBRELOJA - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000"
+DAerM,-22.899156869369097,-43.17698377300568,RUA 1º DE MARCO - 118 - ED. BARÃO DE LADÁRIO 13° E 14° ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000
+DOCM,-22.899156869369097,-43.17698377300568,RUA 1º DE MARÇO - 118 - ED. BARÃO DE LADÁRIO 15° E 16° ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000
+DSAM,-22.899156869369097,-43.17698377300568,RUA 1º DE MARÇO - 118 - ED. BARÃO DE LADÁRIO 17° AO 20° ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000
+DGePM,-22.899156869369097,-43.17698377300568,"RUA 1º DE MARÇO - 118 - ED. BARÃO DE LADÁRIO,10º ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000"
+DGMM,-22.89922605251052,-43.17690867115095,"RUA 1º DE MARÇO - 118 - EDIFÍCIO BARÃO DE LADÁRIO - 10°,11º E 12º ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000"
+DCTIM,-22.899156869369097,-43.17698377300568,"RUA 1º DE MARÇO - 118 - EDIFÍCIO BARÃO DE LADÁRIO, 3°,4° E 5° ANDARES - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20010-000"
+NHoCSul,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAI - S/N° - - PONTA D'AREIA - NITERÓI - RJ - BRASIL - 24048-900 
+NHoTaurus,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAI - S/N° - - PONTA D'AREIA - NITERÓI - RJ - BRASIL – 20091-000
+NHoFAlteGAranha,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAI - S/N° - - PONTA DA ARMAÇÃO - NITERÓI - RJ - BRASIL - 24048-900
+CIAARA,-22.8823081,-43.1335685,"Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24048-900, "
+AvPqHoAspMoura,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAY - S/N - - PONTA DA ARMAÇÃO - NITERÓI - RJ - BRASIL - 24048-900
+NPqHoVitaldeOliveira,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAY - S/N - PONTA DA ARMAÇÃO - NITERÓI - RIO DE JANEIRO - RJ - BRASIL - 24048-900
+NHoAValle,-22.88511865479756,-43.13517163443377,RUA BARÂO DE JACEGUAY - S/N° - - PONTA DA ARMAÇÃO - NITERÓI - RJ - BRASIL - 24048-900
+NOcAntares,-22.88511865479756,-43.13517163443377,RUA BARÃO DE JACEGUAY - S/N° - - PONTA DA ARMAÇÃO - NITERÓI - RJ - BRASIL - 24048-900
+AgParintins,-2.6235167614938337,-56.73363354562839,RUA BENJAMIM DA SILVA - 1820 - - CENTRO - PARINTINS - AM - BRASIL – 69151-270
+NBFMSeixas,-25.51696259528805,-48.50179358775559,RUA BENJAMIN CONSTANT - 707 - - COSTEIRA - PARANAGUÁ - PR - BRASIL - 83203-190
+SSN-8,-25.51696259528805,-48.50179358775559,RUA BENJAMIN CONSTANT - 707 - - COSTEIRA - PARANAGUÁ - PR - BRASIL – 83203-190
+EsqdQE-1,-22.82089320326636,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N - BASE AERONAVAL - SÃO PEDRO DA ALDEIA - RIO DE JANEIRO - RJ - BRASIL - 28.944-054
+EsqdHA-1,-22.82089320326636,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
+EsqdHI-1,-22.82089320326636,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
+EsqdHU-1,-22.82089320326636,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
+EsqdHU-2,-22.82089320326636,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
+EsqdVF-1,-22.82089320326636,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28940-000
+EsqdHS-1,-22.82089320326636,-42.09461686445568,RUA COMANDANTE ITURIEL - S/N° - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28944-054
+GAerNavMan,-22.82089320326636,-42.09461686445568,RUA COMANDANTE ITURIEL - S/Nº - - FLUMINENSE - SÃO PEDRO DA ALDEIA - RJ - BRASIL - 28944-054
+CMAM,-22.92350133217049,-43.22337845854632,RUA CONDE DE BONFIM - 54 - - TIJUCA - RIO DE JANEIRO - RJ - BRASIL - 20520-053
+AMRJ,-22.8970774,-43.1744798,"Rua da Ponte, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, "
+CPM,-22.3866934,-41.7710437,"Rua Denach Lima, Imbetiba, Macaé, Rio de Janeiro, Brazil, 27915-530, "
+NVAtalaia,38.703898,-8.9254747,"Rua do Bairro Novo da Atalaia, Atalaia, Setúbal, Portugal, 2870, "
+AgSFAraguaia,-11.619667,-50.6647033,"Rua do Comercio, Centro, São Félix do Araguaia, Mato Grosso, Brazil, 78670-000, "
+DPHDM,-22.90390786276792,-43.17318569739053,RUA DOM MANUEL - 15 - PRACA XV - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20090-010
+DelUruguaiana,-29.74985388300687,-57.08507080045588,RUA DOMINGOS DE ALMEIDA - 1194 - - CENTRO - URUGUAIANA - RS - BRASIL – 97500-002
+AvHoFluRioNegro,-3.144032849213364,-59.94935883770639,RUA ITAGUAÍ - S/N° - - VILA BURITI - MANAUS - AM - BRASIL - 69.072-080 
+AvHoFluRioSolimoes,-3.144032849213364,-59.94935883770639,RUA ITAGUAÍ - S/N° - - VILA BURITI - MANAUS - AM - BRASIL – 69372-080
+CDDCFN,-22.781789779027136,-43.15891148846765,RUA MAGNO MARTINS - S/N° - - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL - 21911-000
+BtlCmdoCt,-22.785793983581105,-43.16346294011294,RUA MAGNO MARTINS - S/N° - BANCÁRIOS - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL – 21911-000
+DelIlheus,-14.784848801149913,-39.03498467050755,RUA MAJOR HOMEM DEL REY - 217 - - CIDADE NOVA - ILHÉUS - BA - BRASIL - 45652-180
+EsIMar,-22.89940720298105,-43.18088151718763,RUA MAYRINK VEIGA - 28 - 6° ANDAR - CENTRO - RIO DE JANEIRO - RJ - BRASIL - 20090-050
+AgHumaita,-7.488508153444711,-63.024430735598365,RUA PORTOBRÁS - 55 - - SÃO DOMINGO SÁVIO - HUMAITÁ - AM - BRASIL – 69800-000
+CADIM,-23.060785,-43.9860147,RUA PROFESSOR RAFAEL LEVI MIRANDA - S/N° - ITACURUÇÁ - MANGARATIBA - RIO DE JANEIRO - RJ - BRASIL – 23860-000
+GrEOpRibAM,-3.144136333777384,-59.94932464180356,RUA RIO ITAQUAÍ - S/N° - - BAIRRO VILA BURITI - MANAUS - AM - BRASIL – 69072-080
+NHiBComteManhaes,,,RUA SILVIO PÉLICO - - - ALECRIM - NATAL - RN - - 59040-150
+HNNa,-5.78939937802494,-35.221775159744006,RUA SILVIO PELICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150
+NPaGoiana,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150
+NPaMacau,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150
+BNN,-5.78939937802494,-35.221775159744006,RUA SILVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150
+NPaOcAraguari,-5.78933540205538,-35.22265249056914,RUA SÍLVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150 
+ComGptPatNavNE,-5.78939937802494,-35.221775159744006,RUA SÍLVIO PÉLICO - S/N° - - ALECRIM - NATAL - RN - BRASIL - 59040-150 - Caixa Postal n° 841 
+NPaGrajau,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - BASE NAVAL DE NATAL - ALECRIM - NATAL - RN - BRASIL - 59040-150
+NPaGuaiba,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - BASE NAVAL DE NATAL - ALECRIM - NATAL - RN - BRASIL - 59040-150
+RbAMTriunfo,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - BASE NAVAL DE NATAL - ALECRIM - NATAL - RN - BRASIL - 59040-150 
+NPaGrauna,-5.78933540205538,-35.22265249056914,RUA SILVIO PÉLICO - S/N° - BNN - ALECRIM - NATAL - RN - BRASIL - 59040-150
+CeIMNa,-5.792604,-35.2193182,"Rua Sílvio Pelico, Alecrim, Natal, Rio Grande do Norte, Brazil, 59040-150, "
+SSN-3,-5.792604,-35.2193182,"Rua Sílvio Pelico, Alecrim, Natal, Rio Grande do Norte, Brazil, 59040-150, "
+CPRJ,-22.9010161,-43.1744747,"S/N, Avenida Alfred Agache, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20021-000, "
+TM,-22.9011655,-43.1743226,"s/n, Avenida Alfred Agache, Praça XV de Novembro, Rio de Janeiro, Rio de Janeiro, Brazil, 20040-010, "
+EN,-22.9138426,-43.1598942,"s/n, Avenida Almirante Silvio de Noronha, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20021-010, "
+Com2°DN,-12.9742029,-38.51521049999999,"s/n, Avenida das Naus, Comercio, Salvador, Bahia, Brazil, 40301-155, "
+SNNF,-22.2917847,-42.533382,"s/n, Avenida Governador Geremias de Mattos Fontes, Centro, Nova Friburgo, Rio de Janeiro, Brazil, 28613-140, "
+BtlVtrAnf,-22.8465736,-43.1010346,"S/N, Avenida Paiva, Neves, São Gonçalo, Rio de Janeiro, Brazil, 24426-140, "
+BFNIF,-22.8458546,-43.1014661,"s/n, Avenida Paiva, Neves, São Gonçalo, Rio de Janeiro, Brazil, 24426-148, "
+1°BtlInfFuzNav,-22.784548,-43.15845059999999,"S/N, Estrada do Quilombo, Bananal (Ilha do Governador, Rio de Janeiro, Rio de Janeiro, Brazil, 21911-010, "
+BFNIG,-22.7821672,-43.1590216,"S/N, Estrada do Quilombo, Freguesia (Ilha do Governador), Rio de Janeiro, Rio de Janeiro, Brazil, 21911-016, "
+BtlCmbAe,-22.7846045,-43.1673505,"S/N, Estrada do Quilombo, Freguesia (Ilha do Governador), Rio de Janeiro, Rio de Janeiro, Brazil, 21911-016, "
+ERMRJ,-22.8244672,-43.1779473,"s/n, Estrada do Rio Jequiá, Ribeira, Rio de Janeiro, Rio de Janeiro, Brazil, 21930-007, "
+CIAW,-22.8833595,-43.1749243,"S/n, Ilha das Enxadas, Baía de Guanabara, Rio de Janeiro, Rio de Janeiro, Brazil, "
+HCM,-22.8961759,-43.1740271,"s/n, Praça Barão de Ladário, Centro, Rio de Janeiro, Rio de Janeiro, Brazil, 20091-000, "
+BNVC,-1.3968229,-48.4895635,"S/N, Rodovia Arthur Bernardes, Km 4, Val de Caes, Belém, Pará, Brazil, 66115-300, "
+CAMR,-22.8825509,-43.1343198,"S/N, Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24048-900, "
+GNHo,-22.882499,-43.134539,"s/n, Rua Barão de Jaceguaí, Ponta D'areia, Niterói, Rio de Janeiro, Brazil, 24048-900, "
+CHM,-22.8847897,-43.1334776,"s/n, Rua Barão de Jaceguaí, Ponta da Armação, Niterói, Rio de Janeiro, Brazil, 24048-900, "
+Com9°DN,-3.1327724,-60.03078069999999,"s/n, Rua Bernardo Ramos, Centro, Manaus, Amazonas, Brazil, 69005-310, "
+CFAOC,-3.133574,-60.030445,"s/n, Rua Bernardo Ramos, Centro, Manaus, Amazonas, Brazil, 69005-310, "
+Com4°DN,-1.4634653,-48.5038806,"s/n, Rua Carneiro da Rocha, Cidade Velha, Belém, Pará, Brazil, 66023-110, "
+Com3°DN,-5.7668191,-35.2026203,"s/n, Rua Coronel Flamínio, Santos Reis, Natal, Rio Grande do Norte, Brazil, 59010-500, "
+2°BtlOpRib,-1.3947075,-48.4538303,"S/N, Rua da Marinha, Marambaia, Belém, Pará, Brazil, 66620-430, "
+EAMES,-20.3278441,-40.2955099,"s/n, Rua Inhoa, Prainha, Vila Velha, Espírito Santo, Brazil, 29100-900, "
+2°BtlInfFuzNav,-22.7863705,-43.1759976,"S/N, Rua Magno Martins, Bancários, Rio de Janeiro, Rio de Janeiro, Brazil, 21911-430, "
+3°BtlInfFuzNav,-22.7863705,-43.1759976,"S/N, Rua Magno Martins, Bancários, Rio de Janeiro, Rio de Janeiro, Brazil, 21911-430, "
+CIASC,-22.7809917,-43.1741368,"s/n, Rua Magno Martins, Ilha do Governador, Rio de Janeiro, Rio de Janeiro, Brazil, 21911-430, "
+HNBra,-15.8148476,-47.9146472,"s/n, Via W5 Sul, Asa Sul, Brasília, Distrito Federal, Brazil, 70390-115, "
+1°BtlOpRib,-3.1295024,-59.9468415,"s/n°, Avenida Abiurana, Mauazinho, Manaus, Amazonas, Brazil, 69075-705, "
+CFAT,-10.2294235,-48.3703499,"s/nº, 913 Sul s/nº - Praia do Prata, Plano Diretor Sul, Palmas, Tocantins, Brazil, 77017-171, "
+CeIMSPA,-22.8187267,-42.0909092,"s/nº, Rua Comandante Ituriel, Base Aeronaval, São Pedro da Aldeia, Rio de Janeiro, Brazil, 28940-000, "
+EAMPE,-8.0361037,-34.8671659,"Salgadinho, Olinda, Pernambuco, Brazil, 53110-901, "
+ERMS,-12.9777378,-38.5016363,"Salvador, Salvador, State of Bahia, Brazil, "
+CeIMSa,-12.9777378,-38.5016363,"Salvador, Salvador, State of Bahia, Brazil, "
+AgSJBarra,-21.6267746,-41.0192315,"São João da Barra, Atafona, São João da Barra, State of Rio de Janeiro, Brazil, 28200, "
+ComDivAnf,-22.788209476939414,-43.16160415970821,TRAVESSA TEOTONIO FREIRE - 64 - BANANAL - ILHA DO GOVERNADOR - RIO DE JANEIRO - RJ - BRASIL – 21911-000
+GptFNB,-15.786211,-47.8581412,"Trecho 2, SCEN, Brasília, Brasília, Distrito Federal, Brazil, 70071-125, "
+GptFNSP,,,
